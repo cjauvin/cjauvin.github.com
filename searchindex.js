@@ -1,1 +1,0 @@
-Search.setIndex({objects:{},terms:{jauvin:0,christian:0},objtypes:{},titles:["Christian Jauvin"],objnames:{},filenames:["index"]})

@@ -1,5 +1,32 @@
 Christian Jauvin
 ================
 
+*Independent software developer/consultant, specializing in scientic computing.*
+
+Ongoing Contracts
+-----------------
+
+* Gastrointestinal outbreak simulation with the `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
+
+* Deep vein thrombosis (DVT) textual diagnostic classifier with the `McGill Clinical Informatics Lab <http://clinicalinformatics.mcgill.ca/>`_
+
+* Tuberculosis data management system with the `Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_
+
+* Tree reconstruction from LIDAR point clouds with the `Institut québécois d'aménagement de la forêt feuillue <http://www.iqaff.qc.ca/>`_
+
+* Generative art with the `Capture <http://incident.net/users/gregory/project/capture/>`_ collective
+
+Past Projects
+-------------
+
+* Real-time spatial surveillance `application <http://surveillance.mcgill.ca/dracones/draconesph/index.php>`_ for the `Direction de santé publique de Montréal <http://www.santepub-mtl.qc.ca/>`_
+
+Open Source Code
+----------------
+
+* `Dracones <http://surveillance.mcgill.ca/dracones/>`_, a web mapping framework based on `MapServer <http://mapserver.org/>`_
+
+* Various smaller `projects <https://github.com/cjauvin>`_
+
 
 
