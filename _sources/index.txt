@@ -33,6 +33,6 @@ Other
 
 * My `blog <http://ketain.blogspot.com/>`_ (very occasionally updated)
 
-* My email address: `cjauvin+gh@gmail.com <mailto://cjauvin+gh@gmail.com>`_
+* My email address: `cjauvin+gh@gmail.com <mailto:cjauvin+gh@gmail.com>`_
 
 
