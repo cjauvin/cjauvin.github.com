@@ -1,7 +1,7 @@
 Christian Jauvin
 ================
 
-*Independent software developer/consultant, specializing in scientific computing.*
+*Independent software developer/consultant (M.Sc. in CS/Machine Learning), specializing in scientific computing.*
 
 Ongoing Contracts
 -----------------
