@@ -1,7 +1,7 @@
 Christian Jauvin
 ================
 
-Independent software developer/consultant (M.Sc. in CS/Machine Learning, `UdeM <http://www.iro.umontreal.ca/?lang=en>`_), specializing in scientific computing.
+Independent software developer/consultant (M.Sc. in CS + Machine Learning, 2003, `UdeM <http://www.iro.umontreal.ca/?lang=en>`_), specializing in scientific computing.
 
 Ongoing Contracts
 -----------------
