@@ -1,10 +1,12 @@
 Christian Jauvin
 ================
 
-*Independent software developer/consultant (M.Sc. in CS/Machine Learning), specializing in scientific computing.*
+*Independent software developer/consultant (M.Sc. in CS/Machine Learning, `UdeM <http://www.iro.umontreal.ca/?lang=en>`_), specializing in scientific computing.*
 
 Ongoing Contracts
 -----------------
+
+* Botanical tree reconstruction from LIDAR point cloud data with the `Institut québécois d'aménagement de la forêt feuillue <http://www.iqaff.qc.ca/>`_
 
 * Gastrointestinal outbreak simulation with the `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
 
@@ -12,14 +14,14 @@ Ongoing Contracts
 
 * Tuberculosis data management system with the `Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_
 
-* Tree reconstruction from LIDAR point clouds with the `Institut québécois d'aménagement de la forêt feuillue <http://www.iqaff.qc.ca/>`_
-
 * Generative art with the `Capture <http://incident.net/users/gregory/project/capture/>`_ collective
 
 Past Projects
 -------------
 
 * Real-time spatial surveillance `application <http://surveillance.mcgill.ca/dracones/draconesph/index.php>`_ for the `Direction de santé publique de Montréal <http://www.santepub-mtl.qc.ca/>`_
+
+* Design of a residential address error correction algorithm used in a `study <http://dx.doi.org/10.1016/j.sste.2010.03.002>`_ of their effect on public health data geocoding 
 
 Open Source Code
 ----------------
