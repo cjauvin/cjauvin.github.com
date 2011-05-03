@@ -21,7 +21,7 @@ Past Projects
 
 * Real-time spatial surveillance `application <http://surveillance.mcgill.ca/dracones/draconesph/index.php>`_ for the `Direction de santé publique de Montréal <http://www.santepub-mtl.qc.ca/>`_
 
-* Design of a residential address error correction algorithm used for a `study <http://dx.doi.org/10.1016/j.sste.2010.03.002>`_ of their effect on public health data geocoding 
+* Residential address error correction algorithm used for a `study <http://dx.doi.org/10.1016/j.sste.2010.03.002>`_ of their effect on public health data geocoding 
 
 Open Source Code
 ----------------
