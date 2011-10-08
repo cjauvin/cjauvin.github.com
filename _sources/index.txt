@@ -30,7 +30,7 @@ Open Source Code
 
 * `Dracones <http://surveillance.mcgill.ca/dracones/>`_, a web mapping framework based on `MapServer <http://mapserver.org/>`_
 
-* Various smaller `projects and experiments <https://github.com/cjauvin>`_
+* Various smaller `projects and experiments <https://github.com/cjauvin>`_ (GitHub)
 
 Other
 -----
