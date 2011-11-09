@@ -32,6 +32,34 @@ Open Source Code
 
 * Various smaller `projects and experiments <https://github.com/cjauvin>`_ (@GitHub)
 
+Publications
+------------
+
+* `Simulation Analysis Platform (SnAP): a Tool for Evaluation of
+  Public Health Surveillance and Disease Control Strategies
+  <http://surveillance.mcgill.ca/manuscripts/publ120_amia2011_pipeline_re_v03.pdf>`_,
+  Buckeridge DL, Jauvin C, Okhmatovskaia A, Verma AD, AMIA Annual
+  Symposium, 2011.
+
+* `Residential address errors in public health surveillance data: A
+  description and analysis of the impact on geocoding
+  <http://www.sciencedirect.com/science/article/pii/S1877584510000043>`_,
+  Zinszer K, Jauvin C, Verma A, Bedard L, Allard R, Schwartzman K, de
+  Montigny L, Charland K, Buckeridge DL, Spatial and Spatio-temporal
+  Epidemiology. 1(2-3): 163-168, 2010.
+
+* `Quantifying the Potential Benefit of Early Detection for Preventing
+  Morbidity and Mortality: A Simulation Study of Cryptosporidium
+  Outbreak
+  <http://surveillance.mcgill.ca/manuscripts/publ110_isds2010_bwa_final.pdf>`_.
+  Okhmatovskaia A, Verma AD, Jauvin C, Barbeau B, Allard R, Buckeridge
+  DL, presented at the ISDS Conference, 2010.
+
+* `A Neural Probabilistic Language Model
+  <http://www.iro.umontreal.ca/~vincentp/Publications/lm_jmlr.pdf>`_,
+  Yoshua Bengio, Réjean Ducharme, Pascal Vincent and Christian Jauvin,
+  Journal of Machine Learning Research, 3:1137-1155, 2003.
+
 Other
 -----
 
