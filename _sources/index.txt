@@ -16,6 +16,8 @@ Ongoing Contracts
 
 * Tuberculosis data management system (`Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_)
 
+* Vaccination survey application for the iPad (`McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_)
+
 Past Projects
 -------------
 
