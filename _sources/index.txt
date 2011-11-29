@@ -1,41 +1,73 @@
 Christian Jauvin
 ================
 
-Independent software developer/consultant/researcher (M.Sc. in CS + Machine Learning, 2003, `UdeM <http://www.iro.umontreal.ca/?lang=en>`_), specializing in scientific computing.
+Independent software developer/data analysist/researcher (M.Sc. in
+CS + Machine Learning, 2003, `UdeM
+<http://www.iro.umontreal.ca/?lang=en>`_), specializing in scientific
+computing.
 
 Ongoing Contracts
 -----------------
 
-* Botanical tree reconstruction from LIDAR point cloud data (`Institut québécois d'aménagement de la forêt feuillue <http://www.iqaff.qc.ca/>`_)
+My current business model is to partner up with labs in various fields
+to help them solve problems with computing techniques and open source
+software and tools:
 
-* Gastrointestinal outbreak simulation on a `CLUMEQ <http://www.clumeq.ca>`_ supercomputer (`McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_)
+* `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
 
-* Road accident address correction and geocoding (`Direction de santé publique de Montréal <http://www.santepub-mtl.qc.ca/>`_)
+  - Gastrointestinal outbreak simulation on a `CLUMEQ
+    <http://www.clumeq.ca>`_ supercomputer
 
-* Deep vein thrombosis (DVT) textual diagnostic classifier (`McGill Clinical Informatics Lab <http://clinicalinformatics.mcgill.ca/>`_)
+  - Vaccination survey application for a mobile platform
 
-* Tuberculosis data management system (`Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_)
+  - Deep vein thrombosis (DVT) textual diagnostic classifier 
 
-* Vaccination survey application for the iPad (`McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_)
+* `Institut québécois d'aménagement de la forêt feuillue
+  <http://www.iqaff.qc.ca/>`_
+
+  - Botanical tree reconstruction from LIDAR point cloud data
+    (PyLIDAR)
+
+* `Direction de santé publique de Montréal
+  <http://www.santepub-mtl.qc.ca/>`_
+
+  - Road accident address correction and geocoding
+
+* `Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_
+
+  - Tuberculosis data management system
 
 Past Projects
 -------------
 
-* Real-time spatial surveillance `application <http://surveillance.mcgill.ca/dracones/draconesph/index.php>`_ (`Direction de santé publique de Montréal <http://www.santepub-mtl.qc.ca/>`_)
+* Real-time spatial surveillance `application
+  <http://surveillance.mcgill.ca/dracones/draconesph/index.php>`_
+  (`Direction de santé publique de Montréal
+  <http://www.santepub-mtl.qc.ca/>`_)
 
-* Residential address error correction algorithm used for a `study <http://dx.doi.org/10.1016/j.sste.2010.03.002>`_ of their effect on public health data geocoding 
+* Residential address error correction algorithm used for a `study
+  <http://dx.doi.org/10.1016/j.sste.2010.03.002>`_ of their effect on
+  public health data geocoding
 
-* Generative art with the `Capture <http://incident.net/users/gregory/project/capture/>`_ collective
+* Generative art with the `Capture
+  <http://incident.net/users/gregory/project/capture/>`_ collective
 
 Open Source Code
 ----------------
 
-* `Dracones <http://surveillance.mcgill.ca/dracones/>`_, a web mapping framework based on `MapServer <http://mapserver.org/>`_
+* PyLIDAR, a Python/VTK-based graphical tool to reconstruct botanical
+  trees from point cloud data (soon to open-sourced)
 
-* Various smaller `projects and experiments <https://github.com/cjauvin>`_ (@GitHub)
+* `Dracones <http://surveillance.mcgill.ca/dracones/>`_, a web mapping
+  framework based on `MapServer <http://mapserver.org/>`_
+
+* Various smaller `projects and experiments
+  <https://github.com/cjauvin>`_ (@GitHub)
 
 Publications
 ------------
+
+* PyLIDAR article, soon to come
 
 * `Simulation Analysis Platform (SnAP): a Tool for Evaluation of
   Public Health Surveillance and Disease Control Strategies
