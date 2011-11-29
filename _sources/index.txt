@@ -1,7 +1,7 @@
 Christian Jauvin
 ================
 
-Independent software developer/data analysist/researcher (M.Sc. in
+Independent software developer/data analyst/researcher (M.Sc. in
 CS + Machine Learning, 2003, `UdeM
 <http://www.iro.umontreal.ca/?lang=en>`_), specializing in scientific
 computing.
