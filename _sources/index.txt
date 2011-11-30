@@ -10,9 +10,10 @@ Ongoing Contracts
 -----------------
 
 My current business model is to partner up with labs in various fields
-to help them solve problems with computing techniques and open source
-software and tools, and sometimes even come up with original research 
-ideas and directions. Currently:
+to help them solve problems with computing techniques (machine
+learning algorithms, among others), open source software and tools,
+and sometimes even come up with original research ideas and
+directions. Currently I'm working with:
 
 * `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
 
