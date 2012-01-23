@@ -57,7 +57,7 @@ Open Source Code
 ----------------
 
 * PyLIDAR, a Python/VTK-based graphical tool to reconstruct botanical
-  trees from point cloud data (soon to open-sourced)
+  trees from point cloud data (soon to be open-sourced)
 
 * `Dracones <http://surveillance.mcgill.ca/dracones/>`_, a web mapping
   framework based on `MapServer <http://mapserver.org/>`_
