@@ -21,18 +21,21 @@ directions. Currently I'm working with:
 
   - Rotavirus vaccination data management system
 
-  - NLP-based social media monitoring of vaccination refusal
+  - `NLP
+    <http://en.wikipedia.org/wiki/Natural_language_processing>`_-based
+    social media monitoring of vaccination refusal
 
 * `Institut québécois d'aménagement de la forêt feuillue
   <http://www.iqaff.qc.ca/>`_
 
-  - Botanical tree reconstruction from LIDAR point cloud data
-    (PyLIDAR)
+  - Botanical tree reconstruction from `LIDAR
+    <http://en.wikipedia.org/wiki/LIDAR>`_ point cloud data (PyLIDAR)
 
 * `Direction de santé publique de Montréal
   <http://www.santepub-mtl.qc.ca/>`_
 
-  - Road accident address correction and geocoding
+  - Road accident address correction and `geocoding
+    <http://en.wikipedia.org/wiki/Geocoding>`_
 
 * `Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_
 
@@ -52,7 +55,7 @@ Past Projects
 
 * Deep vein thrombosis (DVT) textual diagnostic classifier
 
-* PostGIS training
+* `PostGIS <http://postgis.refractions.net>`_ training
 
 * Generative art with the `Capture
   <http://incident.net/users/gregory/project/capture/>`_ collective
@@ -60,8 +63,9 @@ Past Projects
 Open Source Code
 ----------------
 
-* PyLIDAR, a Python/VTK-based graphical tool to reconstruct botanical
-  trees from point cloud data (soon to be open-sourced)
+* PyLIDAR, a Python/`VTK <http://www.vtk.org>`_-based graphical tool
+  to reconstruct botanical trees from point cloud data (soon to be
+  open-sourced)
 
 * `Dracones <http://surveillance.mcgill.ca/dracones/>`_, a web mapping
   framework based on `MapServer <http://mapserver.org/>`_
@@ -110,8 +114,10 @@ Other
 
 * My Twitter `feed <http://twitter.com/#!/ChristianJauvin>`_
 
-* I have `successfully completed <letter016972_signed.pdf>`_ the Fall 2011 Stanford online `AI Class <https://www.ai-class.com>`_
+* I have `successfully completed <letter016972_signed.pdf>`_ the Fall
+  2011 Stanford online `AI Class <https://www.ai-class.com>`_
 
-* I am currently following the Stanford online `Cryptography Class <http://www.crypto-class.org>`_
+* I am currently following the Stanford online `Cryptography Class
+  <http://www.crypto-class.org>`_
 
 * My email: ``cjauvin@gmail.com``
