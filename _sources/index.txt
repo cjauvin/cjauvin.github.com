@@ -19,9 +19,9 @@ directions. Currently I'm working with:
   - Gastrointestinal outbreak simulation on a `CLUMEQ
     <http://www.clumeq.ca>`_ supercomputer
 
-  - Vaccination survey application for a mobile platform
+  - Rotavirus vaccination data management system
 
-  - Deep vein thrombosis (DVT) textual diagnostic classifier 
+  - NLP-based social media monitoring of vaccination refusal
 
 * `Institut québécois d'aménagement de la forêt feuillue
   <http://www.iqaff.qc.ca/>`_
@@ -49,6 +49,10 @@ Past Projects
 * Residential address error correction algorithm used for a `study
   <http://dx.doi.org/10.1016/j.sste.2010.03.002>`_ of their effect on
   public health data geocoding
+
+* Deep vein thrombosis (DVT) textual diagnostic classifier
+
+* PostGIS training
 
 * Generative art with the `Capture
   <http://incident.net/users/gregory/project/capture/>`_ collective
@@ -106,7 +110,8 @@ Other
 
 * My Twitter `feed <http://twitter.com/#!/ChristianJauvin>`_
 
+* I have `successfully completed <letter016972_signed.pdf>`_ the Fall 2011 Stanford online `AI Class <https://www.ai-class.com>`_
+
+* I am currently following the Stanford online `Cryptography Class <http://www.crypto-class.org>`_
+
 * My email: ``cjauvin@gmail.com``
-
-
-
