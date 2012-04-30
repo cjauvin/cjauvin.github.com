@@ -35,7 +35,7 @@ directions. Currently I'm working with:
   <http://www.santepub-mtl.qc.ca/>`_
 
   - Road accident address correction and `geocoding
-    <http://en.wikipedia.org/wiki/Geocoding>`_
+    <http://cjauvin.blogspot.ca/2012/04/lean-geocoding.html>`_
 
 * `Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_
 
