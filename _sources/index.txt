@@ -110,15 +110,18 @@ Publications
 Other
 -----
 
-* My technical `blog <http://cjauvin.blogspot.com/>`_ 
+* My technical blog: `Autotelic Computing <http://cjauvin.blogspot.com>`_ 
 
 * My Twitter `feed <http://twitter.com/#!/ChristianJauvin>`_
 
 * I have `successfully <letter016972_signed.pdf>`_ `completed
-  <http://cjauvin.blogspot.ca/2011/12/scrabbling-with-shannon.html>`_
+  <http://cjauvin.blogspot.com/2011/12/scrabbling-with-shannon.html>`_
   the Fall 2011 Stanford online `AI Class <https://www.ai-class.com>`_
 
-* I am currently following the Stanford online `Cryptography Class
+* I have also `successfully
+  <crypto_2012_statement_of_accomplishment.pdf>`_ `completed
+  <http://cjauvin.blogspot.com/2012/05/reverse-engineering-birthday-paradox.html>`_
+  the Spring 2012 Stanford online `Cryptography Class
   <http://www.crypto-class.org>`_
 
 * My email: ``cjauvin@gmail.com``
