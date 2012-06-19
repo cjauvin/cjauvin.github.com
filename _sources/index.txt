@@ -19,7 +19,8 @@ directions. Currently I'm working with:
   - Gastrointestinal outbreak simulation on a `CLUMEQ
     <http://www.clumeq.ca>`_ supercomputer
 
-  - Rotavirus vaccination data management system
+  - Rotavirus vaccination `data management system
+    <cjauvin.blogspot.com/2012/06/two-tales-of-data-clerking.html>`_
 
   - `NLP
     <http://en.wikipedia.org/wiki/Natural_language_processing>`_-based
@@ -35,11 +36,12 @@ directions. Currently I'm working with:
   <http://www.santepub-mtl.qc.ca/>`_
 
   - Road accident address correction and `geocoding
-    <http://cjauvin.blogspot.ca/2012/04/lean-geocoding.html>`_
+    <http://cjauvin.blogspot.com/2012/04/lean-geocoding.html>`_
 
 * `Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_
 
-  - Tuberculosis data management system
+  - Tuberculosis `data management system
+    <cjauvin.blogspot.com/2012/06/two-tales-of-data-clerking.html>`_
 
 Past Projects
 -------------
