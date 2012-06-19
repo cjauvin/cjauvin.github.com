@@ -1,8 +1,8 @@
 Christian Jauvin
 ================
 
-Independent software developer/data analyst/researcher specializing in
-scientific computing (M.Sc. CS + Machine Learning, 2003, `UdeM
+Independent **software developer / data analyst / researcher** specializing in
+**scientific computing** (M.Sc. CS + Machine Learning, 2003, `UdeM
 <http://www.iro.umontreal.ca/?lang=en>`_).
 
 Ongoing Contracts
@@ -10,9 +10,10 @@ Ongoing Contracts
 
 My current business model is to partner up with lab researchers in
 various fields to help them solve problems with computing techniques
-(machine learning algorithms, among others), open source software and
-tools, and sometimes even come up with original research ideas and
-directions. Currently I'm working with:
+(`machine learning <http://en.wikipedia.org/wiki/Machine_learning>`_
+algorithms, for instance, and other **highly transferable skills**), open
+source software and tools, and sometimes even come up with original
+research ideas and directions. Currently I'm working with:
 
 * `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
 
