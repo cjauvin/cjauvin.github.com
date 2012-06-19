@@ -118,10 +118,10 @@ Other
   <http://cjauvin.blogspot.com/2011/12/scrabbling-with-shannon.html>`_
   the Fall 2011 Stanford online `AI Class <https://www.ai-class.com>`_
 
-* I have also `successfully
-  <crypto_2012_statement_of_accomplishment.pdf>`_ `completed
+* I have also `completed
   <http://cjauvin.blogspot.com/2012/05/reverse-engineering-birthday-paradox.html>`_
-  the Spring 2012 Stanford online `Cryptography Class
+  (with a `perfect <crypto_2012_statement_of_accomplishment.pdf>`_
+  score) the Spring 2012 Stanford online `Cryptography Class
   <http://www.crypto-class.org>`_
 
 * My email: ``cjauvin@gmail.com``
