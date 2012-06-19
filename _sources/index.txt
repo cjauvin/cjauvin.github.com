@@ -20,7 +20,7 @@ directions. Currently I'm working with:
     <http://www.clumeq.ca>`_ supercomputer
 
   - Rotavirus vaccination `data management system
-    <cjauvin.blogspot.com/2012/06/two-tales-of-data-clerking.html>`_
+    <http://cjauvin.blogspot.com/2012/06/two-tales-of-data-clerking.html>`_
 
   - `NLP
     <http://en.wikipedia.org/wiki/Natural_language_processing>`_-based
@@ -41,7 +41,7 @@ directions. Currently I'm working with:
 * `Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_
 
   - Tuberculosis `data management system
-    <cjauvin.blogspot.com/2012/06/two-tales-of-data-clerking.html>`_
+    <http://cjauvin.blogspot.com/2012/06/two-tales-of-data-clerking.html>`_
 
 Past Projects
 -------------
