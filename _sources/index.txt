@@ -31,7 +31,8 @@ ideas and directions. Currently I'm working with:
   <http://www.iqaff.qc.ca/>`_
 
   - Botanical tree reconstruction from `LIDAR
-    <http://en.wikipedia.org/wiki/LIDAR>`_ point cloud data (PyLIDAR)
+    <http://en.wikipedia.org/wiki/LIDAR>`_ point cloud data (`PypeTree
+    <http://cjauvin.github.com/pypetree/>`_)
 
 * `Direction de santé publique de Montréal
   <http://www.santepub-mtl.qc.ca/>`_
@@ -66,9 +67,9 @@ Past Projects
 Open Source Code
 ----------------
 
-* PyLIDAR, a Python/`VTK <http://www.vtk.org>`_-based graphical tool
-  to reconstruct botanical trees from point cloud data (soon to be
-  open-sourced)
+* `PypeTree <http://cjauvin.github.com/pypetree/>`_, a Python/`VTK
+  <http://www.vtk.org>`_-based graphical tool to reconstruct botanical
+  trees from point cloud data
 
 * `Dracones <http://surveillance.mcgill.ca/dracones/>`_, a web mapping
   framework based on `MapServer <http://mapserver.org/>`_
@@ -79,7 +80,7 @@ Open Source Code
 Publications
 ------------
 
-* PyLIDAR article, soon to come
+* PypeTree article, soon to come
 
 * An infrastructure for real-time population health assessment and monitoring, 
   Buckeridge D, Izadi M, Shaban-Nejad A, Mondor L, Jauvin C, Dube L, Jang Y, Tamblyn R,
