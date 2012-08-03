@@ -64,8 +64,8 @@ Past
 * Generative art with the `Capture
   <http://incident.net/users/gregory/project/capture/>`_ collective
 
-Open Source
------------
+Code
+----
 
 * `PypeTree <http://cjauvin.github.com/pypetree/>`_, a Python/`VTK
   <http://www.vtk.org>`_-based graphical tool to reconstruct botanical
