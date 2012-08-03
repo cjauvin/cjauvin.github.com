@@ -80,7 +80,9 @@ Open Source Code
 Publications
 ------------
 
-* PypeTree article, soon to come
+* PypeTree article, soon to come (currently trying to publish it in
+  `Remote Sensing of Environment
+  <http://www.journals.elsevier.com/remote-sensing-of-environment>`_)
 
 * An infrastructure for real-time population health assessment and monitoring, 
   Buckeridge D, Izadi M, Shaban-Nejad A, Mondor L, Jauvin C, Dube L, Jang Y, Tamblyn R,
