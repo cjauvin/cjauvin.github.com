@@ -17,6 +17,39 @@ ideas and directions. Currently I'm working with:
 
 * `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
 
+  - PopHR: a `semantic web
+    <http://en.wikipedia.org/wiki/Semantic_web>`_ application for the
+    computation, management, querying and visualization of public
+    health indicators (with Dr. `David Buckeridge
+    <http://people.mcgill.ca/david.buckeridge/>`_)
+
+  - Machine learning experiments for the analysis and classification
+    of CIHR grant applications (with Dr. `Robyn Tamblyn
+    <http://people.mcgill.ca/robyn.tamblyn/>`_)
+
+* `Direction de santé publique de Montréal
+  <http://www.santepub-mtl.qc.ca/>`_
+
+  - Road accident address correction and `geocoding
+    <http://cjauvin.blogspot.com/2012/04/lean-geocoding.html>`_
+    (with Dr. Patrick Morency)
+
+Non-scientific
+--------------
+
+* `Société Roucet Inc. <http://roucet.com>`_
+
+  - Web-based `ERP
+    <http://en.wikipedia.org/wiki/Enterprise_resource_planning>`_
+    application (built with Python and `Ext JS
+    <http://www.sencha.com/products/extjs/>`_) for a wine importing
+    company
+
+Past
+----
+
+* `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
+
   - Gastrointestinal outbreak simulation on a `CLUMEQ
     <http://www.clumeq.ca>`_ supercomputer
 
@@ -34,30 +67,21 @@ ideas and directions. Currently I'm working with:
     <http://en.wikipedia.org/wiki/LIDAR>`_ point cloud data (`PypeTree
     <http://cjauvin.github.com/pypetree/>`_)
 
-* `Direction de santé publique de Montréal
-  <http://www.santepub-mtl.qc.ca/>`_
-
-  - Road accident address correction and `geocoding
-    <http://cjauvin.blogspot.com/2012/04/lean-geocoding.html>`_
+* Real-time spatial surveillance `application
+  <http://surveillance.mcgill.ca/dracones/draconesph/index.php>`_
+  (`Direction de santé publique de Montréal
+  <http://www.santepub-mtl.qc.ca/>`_)
 
 * `Montreal Chest Institute <http://muhc.ca/mci/dashboard/>`_
 
   - Tuberculosis `data management system
     <http://cjauvin.blogspot.com/2012/06/two-tales-of-data-clerking.html>`_
 
-Past
-----
-
-* Real-time spatial surveillance `application
-  <http://surveillance.mcgill.ca/dracones/draconesph/index.php>`_
-  (`Direction de santé publique de Montréal
-  <http://www.santepub-mtl.qc.ca/>`_)
-
 * Residential address error correction algorithm used for a `study
   <http://dx.doi.org/10.1016/j.sste.2010.03.002>`_ of their effect on
   public health data geocoding
 
-* Deep vein thrombosis (DVT) textual diagnostic classifier
+* Deep vein thrombosis (DVT) textual diagnostic machine learning classifier
 
 * `PostGIS <http://postgis.refractions.net>`_ training
 
@@ -80,11 +104,13 @@ Code
 Publications
 ------------
 
-* PypeTree article, soon to come (currently trying to publish it in
-  `Remote Sensing of Environment
-  <http://www.journals.elsevier.com/remote-sensing-of-environment>`_)
+* Shaban-Nejad A, Okhmatovskaia A, Izadi M, Naderi N, Mondor L, Jauvin
+  C, Buckeridge DL (2013). PHIO: A Knowledge base for Interpretation
+  and Calculation of Public Health Indicators. to appear in Proc. of
+  the 14th World Congress on Medical and Health Informatics (MedInfo
+  2013),Copenhagen, Denmark, 20-23 Aug 2013.
 
-* An infrastructure for real-time population health assessment and monitoring, 
+* An infrastructure for real-time population health assessment and monitoring,
   Buckeridge D, Izadi M, Shaban-Nejad A, Mondor L, Jauvin C, Dube L, Jang Y, Tamblyn R,
   IBM Journal of Research and Development, 2012.
 
@@ -116,18 +142,23 @@ Publications
 Other
 -----
 
-* My technical blog: `Autotelic Computing <http://cjauvin.blogspot.com>`_ 
+* My technical blog: `Autotelic Computing <http://cjauvin.blogspot.com>`_
 
 * My Twitter `feed <http://twitter.com/#!/ChristianJauvin>`_
 
-* I have `successfully <letter016972_signed.pdf>`_ `completed
-  <http://cjauvin.blogspot.com/2011/12/scrabbling-with-shannon.html>`_
-  the Fall 2011 Stanford online `AI Class <https://www.ai-class.com>`_
+* `MOOCs <http://en.wikipedia.org/wiki/MOOC>`_
 
-* I have also `completed
-  <http://cjauvin.blogspot.com/2012/05/reverse-engineering-birthday-paradox.html>`_
-  (with a `perfect <crypto_2012_statement_of_accomplishment.pdf>`_
-  score) the Spring 2012 Stanford online `Cryptography Class
-  <http://www.crypto-class.org>`_
+  - I have `completed <certs/letter016972_signed.pdf>`_ the Fall 2011
+    Stanford online `AI Class <https://www.ai-class.com>`_
+
+  - I have `completed <certs/crypto_2012_statement_of_accomplishment.pdf>`_
+    (with a perfect score) the Spring 2012 Stanford online `Cryptography Class
+    <http://www.crypto-class.org>`_
+
+  - I have `completed <certs/coursera_nn2012_certificate.pdf>`_ (with
+    distinction, for a final score of 95.4%) the `Neural Networks for
+    Machine Learning <https://www.coursera.org/course/neuralnets>`_
+    2012 Coursera class, taught by `Geoffrey Hinton
+    <http://www.cs.toronto.edu/~hinton/>`_
 
 * My email: ``cjauvin@gmail.com``
