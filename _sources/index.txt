@@ -146,7 +146,7 @@ Other
 
 * My Twitter `feed <http://twitter.com/#!/ChristianJauvin>`_
 
-* `MOOCs <http://en.wikipedia.org/wiki/MOOC>`_
+* `MOOCs <http://en.wikipedia.org/wiki/MOOC>`_ (self-education)
 
   - I have `completed <certs/letter016972_signed.pdf>`_ the Fall 2011
     Stanford online `AI Class <https://www.ai-class.com>`_
