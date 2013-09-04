@@ -17,14 +17,9 @@ ideas and directions. Currently I'm working with:
 
 * `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
 
-  - PopHR: a `semantic web
-    <http://en.wikipedia.org/wiki/Semantic_web>`_ application for the
-    computation, management, querying and visualization of public
-    health indicators (with Dr. `David Buckeridge
-    <http://people.mcgill.ca/david.buckeridge/>`_)
-
   - Machine learning experiments for the analysis and classification
-    of CIHR grant applications (with Dr. `Robyn Tamblyn
+    of `CIHR <http://www.cihr-irsc.gc.ca/e/193.html>`_ grant
+    applications (with Dr. `Robyn Tamblyn
     <http://people.mcgill.ca/robyn.tamblyn/>`_)
 
 * `Direction de santé publique de Montréal
@@ -49,6 +44,12 @@ Past
 ----
 
 * `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
+
+  - PopHR: a `semantic web
+    <http://en.wikipedia.org/wiki/Semantic_web>`_ application for the
+    computation, management, querying and visualization of public
+    health indicators (with Dr. `David Buckeridge
+    <http://people.mcgill.ca/david.buckeridge/>`_)
 
   - Gastrointestinal outbreak simulation on a `CLUMEQ
     <http://www.clumeq.ca>`_ supercomputer
@@ -103,6 +104,12 @@ Code
 
 Publications
 ------------
+
+* Shaban-Nejad A, **Jauvin C**, Lavigne M, Izadi M, Mondor L,
+  Okhmatovskaia A, Buckeridge D (2013). PopHR: An Integrated Semantic
+  Framework for Population Health Surveillance. To appear in Proc. of
+  The 4th International Conference on Biomedical Ontologies (ICBO
+  2013), Montreal, Canada, 8-9 July 2013.
 
 * Shaban-Nejad A, Okhmatovskaia A, Izadi M, Naderi N, Mondor L, **Jauvin
   C**, Buckeridge DL (2013). PHIO: A Knowledge base for Interpretation
@@ -160,5 +167,12 @@ Other
     Machine Learning <https://www.coursera.org/course/neuralnets>`_
     2012 Coursera class, taught by `Geoffrey Hinton
     <http://www.cs.toronto.edu/~hinton/>`_
+
+  - I have `completed
+    <certs/coursera_optimization_2013_certificate.pdf>`_ (with
+    distinction *and* a perfect score, which was quite hard to do!)
+    the `Discrete Optimization
+    <https://www.coursera.org/course/optimization>`_ 2013 Coursera
+    class, taught by Pr. Pascal Van Hentenryck.
 
 * My email: ``cjauvin@gmail.com``
