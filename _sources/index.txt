@@ -1,7 +1,7 @@
 Christian Jauvin
 ================
 
-Independent **software developer / data analyst / researcher** specializing in
+Independent **software developer / data scientist / researcher** specializing in
 **scientific computing** (M.Sc. CS + Machine Learning, 2003, `UdeM
 <http://www.iro.umontreal.ca/?lang=en>`_).
 
@@ -93,8 +93,9 @@ Code
 ----
 
 * `PypeTree <http://cjauvin.github.com/pypetree/>`_, a Python/`VTK
-  <http://www.vtk.org>`_-based graphical tool to reconstruct botanical
-  trees from point cloud data
+  <http://www.vtk.org>`_-based graphical tool to reconstruct botanical trees
+  from point cloud data (we `published an article
+  <http://www.mdpi.com/1424-8220/14/3/4271>`_ about it)
 
 * `Dracones <http://surveillance.mcgill.ca/dracones/>`_, a web mapping
   framework based on `MapServer <http://mapserver.org/>`_
@@ -104,6 +105,11 @@ Code
 
 Publications
 ------------
+
+* Delagrange S, **Jauvin C**, Rochon P. `PypeTree: A Tool for Reconstructing
+  Tree Perennial Tissues from Point Clouds
+  <http://www.mdpi.com/1424-8220/14/3/4271/pdf>`_. Sensors. 2014;
+  14(3):4271-4289.
 
 * Shaban-Nejad A, **Jauvin C**, Lavigne M, Izadi M, Mondor L,
   Okhmatovskaia A, Buckeridge D (2013). PopHR: An Integrated Semantic
