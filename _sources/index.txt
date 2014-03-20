@@ -15,13 +15,6 @@ algorithms, and other **highly transferable skills**), open source
 software and tools, and sometimes even come up with original research
 ideas and directions. Currently I'm working with:
 
-* `McGill Surveillance Lab <http://surveillance.mcgill.ca/>`_
-
-  - Machine learning experiments for the analysis and classification
-    of `CIHR <http://www.cihr-irsc.gc.ca/e/193.html>`_ grant
-    applications (with Dr. `Robyn Tamblyn
-    <http://people.mcgill.ca/robyn.tamblyn/>`_)
-
 * `Direction de santé publique de Montréal
   <http://www.santepub-mtl.qc.ca/>`_
 
@@ -60,6 +53,11 @@ Past
   - `NLP
     <http://en.wikipedia.org/wiki/Natural_language_processing>`_-based
     social media monitoring of vaccination refusal
+
+  - Machine learning experiments for the analysis and classification
+    of `CIHR <http://www.cihr-irsc.gc.ca/e/193.html>`_ grant
+    applications (with Dr. `Robyn Tamblyn
+    <http://people.mcgill.ca/robyn.tamblyn/>`_)
 
 * `Institut québécois d'aménagement de la forêt feuillue
   <http://www.iqaff.qc.ca/>`_
