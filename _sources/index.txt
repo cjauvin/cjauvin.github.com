@@ -179,4 +179,7 @@ Other
     <https://www.coursera.org/course/optimization>`_ 2013 Coursera
     class, taught by Pr. Pascal Van Hentenryck.
 
+  - I have `completed <certs/coursera_computer_networks_2014_certificate.pdf>`_
+    the `Computer Networks` 2014 Coursera class, taught by Pr. David Wetherall.
+
 * My email: ``cjauvin@gmail.com``
