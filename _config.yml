@@ -30,7 +30,7 @@ twitter:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman-blog
+#theme: jekyll-theme-cayman-blog
 remote_theme: lorepirri/cayman-blog
 plugins:
   - jekyll-feed
