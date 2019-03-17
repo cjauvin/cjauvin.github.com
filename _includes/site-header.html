@@ -34,7 +34,7 @@
             {% endunless %}
           {% endfor %}
 
-          {% unless page.title contains '404' or page.title == undefined %}
+          {% unless page.title contains '404' or page.ref == undefined %}
             {% assign curr_ref_pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
             {% for page in curr_ref_pages %}
               <a class="{{ page.lang }}" href="{{ page.url | relative_url }}">{{ page.lang }}</a>
