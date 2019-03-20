@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Contact
-tagline: Faire un contact..
 lang: fr
 ref: contact
 ---
 
-Bla bla bla..
+Vous pouvez m'écrire à cjauvin@gmail.com

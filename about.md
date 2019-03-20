@@ -1,15 +1,17 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
 lang: en
 ref: about
 permalink: /about/
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+I have been interested in computers and programming for _long_ time. I
+have a MSc in Computer Science from University of Montreal, where I
+studied Machine Learning with Yoshua Bengio.
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+I know a lot about programming, web development, databases and machine
+learning.
 
-
-[Go to the Home Page](./)
+There are a lot of tools that I _like_, but there are three that I
+_love_: Emacs, Python and PostgreSQL.

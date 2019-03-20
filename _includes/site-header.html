@@ -29,7 +29,7 @@
 
           {% assign lang_pages = site.pages | where:"lang", page.lang %}
           {% for page in lang_pages %}
-            {% unless page.title contains "404" or page.title == undefined %}
+            {% unless page.title contains "404" or page.title == undefined or page.nomenu != undefined %}
               <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
             {% endunless %}
           {% endfor %}

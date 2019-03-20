@@ -1,10 +1,11 @@
 ---
 layout: page
 title: À propos
-tagline: À propos de moi..
 lang: fr
 ref: about
 permalink: /fr/apropos/
 ---
 
-Ceci est à propos de moi!
+Je m'intéresse à la programmation et aux ordinateurs depuis un _long_
+moment. J'ai fait une maitrise en informatique à l'Université de
+Montréal, où j'ai étudié le _machine learning_ avec Yoshua Bengio.
