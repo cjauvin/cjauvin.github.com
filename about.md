@@ -6,12 +6,11 @@ ref: about
 permalink: /about/
 ---
 
-I have been interested in computers and programming for _long_ time. I
-have a MSc in Computer Science from University of Montreal, where I
-studied Machine Learning with Yoshua Bengio.
+I have been interested in computers and programming for a long time (I
+started learning with a
+[VIC-20](https://en.wikipedia.org/wiki/Commodore_VIC-20) in the 80s,
+with my father). I have a MSc in Computer Science from University of
+Montreal, where I studied machine learning with Yoshua Bengio.
 
-I know a lot about programming, web development, databases and machine
-learning.
-
-There are a lot of tools that I _like_, but there are three that I
-_love_: Emacs, Python and PostgreSQL.
+You can find my CV
+[here](/assets/docs/christian_jauvin_cv_en.pdf){:target="_blank"}.
