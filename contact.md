@@ -5,4 +5,4 @@ lang: en
 ref: contact
 ---
 
-You can contact me at cjauvin@gmail.com
+You can contact me at `cjauvin@gmail.com`.
