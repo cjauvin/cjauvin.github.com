@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christian Jauvin</title>
-    <link>http://example.org/</link>
+    <link>https://cjauvin.github.io/</link>
     <description>Recent content on Christian Jauvin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 22:40:39 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 22:40:39 -0500</lastBuildDate><atom:link href="https://cjauvin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://cjauvin.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 09 Nov 2020 22:40:39 -0500</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://cjauvin.github.io/posts/my-first-post/</guid>
       <description>Yes!! It works!</description>
     </item>
     
