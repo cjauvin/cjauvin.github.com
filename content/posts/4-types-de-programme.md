@@ -2,7 +2,7 @@
 title: "Il y a au moins quatre types de programme"
 date: 2022-01-29T11:58:40-05:00
 draft: false
-summary: ""
+show_summary: false
 ---
 
 * Un **SCRIPT** est un programme pour accomplir une tâche déterminée,
