@@ -2,6 +2,7 @@
 title: "Quatre types de programme"
 date: 2022-01-29T11:58:40-05:00
 draft: false
+summary: "Il y a au moins 4 types de programme..."
 ---
 
 Il y a au moins 4 types de programme :
