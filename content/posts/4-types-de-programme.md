@@ -1,11 +1,9 @@
 ---
-title: "Quatre types de programme"
+title: "Il y a au moins quatre types de programme"
 date: 2022-01-29T11:58:40-05:00
 draft: false
-summary: "Il y a au moins 4 types de programme..."
+summary: ""
 ---
-
-Il y a au moins 4 types de programme :
 
 * Un **SCRIPT** est un programme pour accomplir une tâche déterminée,
   souvent assez procédurale par nature, qui utilise peu de mécanismes
