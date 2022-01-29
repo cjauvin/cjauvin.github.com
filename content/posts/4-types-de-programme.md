@@ -9,13 +9,13 @@ Il y a au moins 4 types de programme :
 
 * Un **SCRIPT** est un programme pour accomplir une tâche déterminée,
   souvent assez procédurale par nature, qui utilise peu de mécanismes
-  d'abstraction, et qui peut souvent se contenter de celles de la
-  librairie standard (du langage dans lequel il est écrit). Un script
-  peut être composé d'autres scripts, et sa complexité est très
-  variable. Un script est idéalement documenté, mais ça sera à l'usage
-  de son propre utilisateur (possiblement son "moi futur", qui aura
-  oublié les détails). L'interface d'un script est souvent textuelle,
-  via la ligne de commande.
+  d'abstraction, et qui peut souvent se contenter de celles offertes
+  par la librairie standard (du langage dans lequel il est écrit). Un
+  script peut être composé d'autres scripts, et sa complexité est très
+  variable. Un script est idéalement documenté, mais ça sera
+  typiquement à l'usage de son propre utilisateur (possiblement son
+  "moi futur", qui aura oublié les détails). L'interface d'un script
+  est souvent textuelle, via la ligne de commande.
 
 * Une **APPLICATION** fait référence à un concept plus large, qui
   effectue souvent une collection de tâches (aussi généralement
@@ -37,7 +37,7 @@ Il y a au moins 4 types de programme :
   d'être utilisée par d'autres programmes. La documentation d'une
   librairie est particulièrement cruciale, et l'alliage entre les
   abstractions logicielles proposées et les explications jouent
-  souvent un énorme rôle dans la perception de qualité, ou la
+  souvent un rôle important dans la perception de qualité, ou sa
   popularité.
 
 * Le **FRAMEWORK** est une librairie augmentée d'une méthodologie (et
