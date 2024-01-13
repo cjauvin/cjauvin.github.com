@@ -17,7 +17,7 @@ quintessential type of application that benefits from being designed
 from an OOP perspective, simply because the notion of objects in it is
 usually very natural and intuitive.
 
-So without further ado, here is an hopefully self.explanatory OOP
+So without further ado, here is an hopefully self-explanatory OOP
 primer as a Pacman skeleton codebase:
 
 
@@ -40,6 +40,8 @@ class Pacman:
             for g in self.ghosts:
                 g.update_position()
             self.detect_collisions()
+            if self.n_remaining_dots == 0:
+                break # Player won!
 
     def detect_collisions(self):
         for g in self.ghosts:
