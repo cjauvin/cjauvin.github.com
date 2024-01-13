@@ -1,0 +1,75 @@
+<!doctype html><html><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><title>Extremely Quick Pacman-based OOP Primer - Christian Jauvin</title><meta name=viewport content="width=device-width,initial-scale=1">
+<meta property="og:title" content="Extremely Quick Pacman-based OOP Primer"><meta property="og:description" content="I have a friend who wanted to have a quick idea about whether he should use classes and objects for his project. Of course I told him that it depends.. on many aspects. He says that he doesn&rsquo;t really like tutorials, so here I want to propose something more compact: the skeleton of a Pacman game, just the most basic concepts, without any bells and whistles (so of course not playable, although almost runnable)."><meta property="og:type" content="article"><meta property="og:url" content="https://cjauvin.github.io/posts/quick-oop-primer-with-pacman/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2024-01-12T18:08:40-05:00"><meta property="article:modified_time" content="2024-01-12T18:08:40-05:00"><meta name=twitter:card content="summary"><meta name=twitter:title content="Extremely Quick Pacman-based OOP Primer"><meta name=twitter:description content="I have a friend who wanted to have a quick idea about whether he should use classes and objects for his project. Of course I told him that it depends.. on many aspects. He says that he doesn&rsquo;t really like tutorials, so here I want to propose something more compact: the skeleton of a Pacman game, just the most basic concepts, without any bells and whistles (so of course not playable, although almost runnable)."><link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel=stylesheet><link rel=stylesheet type=text/css media=screen href=https://cjauvin.github.io/css/normalize.css><link rel=stylesheet type=text/css media=screen href=https://cjauvin.github.io/css/main.css><link rel=stylesheet type=text/css href=https://cjauvin.github.io/css/dark.css><script src=https://cjauvin.github.io/js/feather.min.js></script><script src=https://cjauvin.github.io/js/main.js></script></head><body><div class="container wrapper post"><div class=header><base href=https://cjauvin.github.io/><h1 class=site-title><a href=https://cjauvin.github.io/>Christian Jauvin</a></h1><div class=site-description><h2></h2><nav class="nav social"><ul class=flat><a href=https://github.com/cjauvin title=Github><i data-feather=github></i></a></ul></nav></div><nav class=nav><ul class=flat></ul></nav></div><div class=post-header><h1 class=title>Extremely Quick Pacman-based OOP Primer</h1><div class=meta>Posted at &mdash; Jan 12, 2024</div></div><div class=markdown><p>I have a friend who wanted to have a quick idea about whether he
+should use classes and objects for his project. Of course I told him
+that it depends.. on many aspects. He says that he doesn&rsquo;t really like
+tutorials, so here I want to propose something more compact: the
+skeleton of a Pacman game, just the most basic concepts, without any
+bells and whistles (so of course not playable, although almost
+runnable).</p><p>The reason for this choice is simple: a game is, I would say, the
+quintessential type of application that benefits from being designed
+from an OOP perspective, simply because the notion of objects in it is
+usually very natural and intuitive.</p><p>So without further ado, here is an hopefully self.explanatory OOP
+primer as a Pacman skeleton codebase:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Pacman</span>:
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self):
+</span></span><span style=display:flex><span>        g1 <span style=color:#f92672>=</span> Ghost(<span style=color:#e6db74>&#34;Blinky&#34;</span>, <span style=color:#e6db74>&#34;red&#34;</span>, self) <span style=color:#75715e># instance of Ghost class</span>
+</span></span><span style=display:flex><span>        g2 <span style=color:#f92672>=</span> Ghost(<span style=color:#e6db74>&#34;Pinky&#34;</span>, <span style=color:#e6db74>&#34;pinky&#34;</span>, self) <span style=color:#75715e># another instance..</span>
+</span></span><span style=display:flex><span>        g3 <span style=color:#f92672>=</span> Ghost(<span style=color:#e6db74>&#34;Inky&#34;</span>, <span style=color:#e6db74>&#34;cyan&#34;</span>, self)
+</span></span><span style=display:flex><span>        g4 <span style=color:#f92672>=</span> Ghost(<span style=color:#e6db74>&#34;Clyde&#34;</span>, <span style=color:#e6db74>&#34;orange&#34;</span>, self)
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>ghosts <span style=color:#f92672>=</span> [g1, g2, g3, g4] <span style=color:#75715e># list of instances for easier manip</span>
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>player <span style=color:#f92672>=</span> Player(self) <span style=color:#75715e># single instance of Player class</span>
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>n_remaining_power_pellets <span style=color:#f92672>=</span> <span style=color:#ae81ff>4</span>
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>n_remaining_dots <span style=color:#f92672>=</span> <span style=color:#ae81ff>240</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>play</span>(self):
+</span></span><span style=display:flex><span>        <span style=color:#75715e># Main game loop!</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>while</span> self<span style=color:#f92672>.</span>player<span style=color:#f92672>.</span>is_alive:
+</span></span><span style=display:flex><span>            self<span style=color:#f92672>.</span>player<span style=color:#f92672>.</span>update_position()
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>for</span> g <span style=color:#f92672>in</span> self<span style=color:#f92672>.</span>ghosts:
+</span></span><span style=display:flex><span>                g<span style=color:#f92672>.</span>update_position()
+</span></span><span style=display:flex><span>            self<span style=color:#f92672>.</span>detect_collisions()
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>detect_collisions</span>(self):
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>for</span> g <span style=color:#f92672>in</span> self<span style=color:#f92672>.</span>ghosts:
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> g<span style=color:#f92672>.</span>pos <span style=color:#f92672>==</span> self<span style=color:#f92672>.</span>player<span style=color:#f92672>.</span>pos:
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> self<span style=color:#f92672>.</span>player<span style=color:#f92672>.</span>is_invicible:
+</span></span><span style=display:flex><span>                    <span style=color:#75715e># ghost is eaten</span>
+</span></span><span style=display:flex><span>                    self<span style=color:#f92672>.</span>ghosts<span style=color:#f92672>.</span>remove(g)
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>else</span>:
+</span></span><span style=display:flex><span>                    <span style=color:#75715e># player dies</span>
+</span></span><span style=display:flex><span>                    self<span style=color:#f92672>.</span>player<span style=color:#f92672>.</span>is_alive <span style=color:#f92672>=</span> <span style=color:#66d9ef>False</span>
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>break</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Entity</span>:
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self, x0, y0, game):
+</span></span><span style=display:flex><span>        <span style=color:#75715e># variables which are common to all classes deriving from Entity</span>
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>pos <span style=color:#f92672>=</span> [x0, y0]
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>game <span style=color:#f92672>=</span> game <span style=color:#75715e># instance of Pacman class</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Ghost</span>(Entity):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self, name, color, game):
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>name <span style=color:#f92672>=</span> name
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>color <span style=color:#f92672>=</span> color
+</span></span><span style=display:flex><span>        super()<span style=color:#f92672>.</span>__init__(<span style=color:#ae81ff>20</span>, <span style=color:#ae81ff>20</span>, game) <span style=color:#75715e># call Entity&#39;s constructor</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>update_position</span>(self):
+</span></span><span style=display:flex><span>        <span style=color:#75715e># Update self.pos randomly</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>pass</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Player</span>(Entity):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self, game):
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>is_alive <span style=color:#f92672>=</span> <span style=color:#66d9ef>True</span>
+</span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>is_invincible <span style=color:#f92672>=</span> <span style=color:#66d9ef>False</span>
+</span></span><span style=display:flex><span>        super()<span style=color:#f92672>.</span>__init__(<span style=color:#ae81ff>10</span>, <span style=color:#ae81ff>10</span>, game) <span style=color:#75715e># c all Entity&#39;s constructor</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>update_position</span>(self):
+</span></span><span style=display:flex><span>        <span style=color:#75715e># Check input controls to get new player position</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e># Check if on a power pellet do:</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>#    self.is_invincible = True</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>#    self.game.n_remaining_power_pellets -= 1</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e># Check if on a dot, do: self.game.n_remaining_dots -= 1</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>if</span> __name__ <span style=color:#f92672>==</span> <span style=color:#e6db74>&#34;__main__&#34;</span>:
+</span></span><span style=display:flex><span>    game <span style=color:#f92672>=</span> Pacman()
+</span></span><span style=display:flex><span>    game<span style=color:#f92672>.</span>play()
+</span></span><span style=display:flex><span>    print(<span style=color:#e6db74>&#34;Game Over!&#34;</span>)
+</span></span></code></pre></div></div><div class=post-tags></div></div><div class="footer wrapper"><nav class=nav><div><a href=https://github.com/vividvilla/ezhil>Ezhil theme</a> | Built with <a href=https://gohugo.io>Hugo</a></div></nav></div><script>feather.replace()</script></body></html>
