@@ -1,3 +1,9 @@
 [submodule "themes/ezhil"]
 	path = themes/ezhil
 	url = git@github.com:vividvilla/ezhil.git
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "themes/dead-simple"]
+	path = themes/dead-simple
+	url = git@github.com:barklan/hugo-dead-simple.git

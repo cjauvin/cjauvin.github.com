@@ -1,7 +1,8 @@
 baseURL = "https://cjauvin.github.io/"
 languageCode = "en-us"
 title = "Christian Jauvin"
-theme = "ezhil"
+# theme = "ezhil"
+theme = "hello-friend-ng"
 
 [params]
     subtitle = ""
