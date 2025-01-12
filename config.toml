@@ -2,13 +2,26 @@ baseURL = "https://cjauvin.github.io/"
 languageCode = "en-us"
 title = "Christian Jauvin"
 # theme = "ezhil"
-theme = "hello-friend-ng"
+# theme = "hello-friend-ng"
+# theme = "dead-simple"
+theme = "archie"
 
 [params]
+    # mainSections = ["posts"]
     subtitle = ""
     mode = "dark"
 
 [[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/cjauvin"
+    name = "Github"
+    icon = "github"
+    url = "https://github.com/cjauvin"
+
+# [menu]
+#   [[menu.main]]
+#     identifier = "about"
+#     name       = "About"
+#     url        = "about/"
+#   [[menu.main]]
+#     identifier = "posts"
+#     name       = "Posts"
+#     url        = "posts/"
