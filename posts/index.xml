@@ -1,1 +1,133 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 18:08:40 -0500</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Extremely Quick Pacman-based OOP Primer</title><link>https://cjauvin.github.io/posts/quick-oop-primer-with-pacman/</link><pubDate>Fri, 12 Jan 2024 18:08:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/quick-oop-primer-with-pacman/</guid><description>I have a friend who wanted to have a quick idea about whether he should use classes and objects for his project. Of course I told him that it depends.. on many aspects. He says that he doesn&amp;rsquo;t really like tutorials, so here I want to propose something more compact: the skeleton of a Pacman game, just the most basic concepts, without any bells and whistles (so of course not playable, although almost runnable).</description></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 18:08:40 -0500</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Extremely Quick Pacman-based OOP Primer</title><link>https://cjauvin.github.io/posts/quick-oop-primer-with-pacman/</link><pubDate>Fri, 12 Jan 2024 18:08:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/quick-oop-primer-with-pacman/</guid><description>&lt;p>I have a friend who wanted to have a quick idea about whether he
+should use classes and objects for his project. Of course I told him
+that it depends.. on many aspects. He says that he doesn&amp;rsquo;t really like
+tutorials, so here I want to propose something more compact: the
+skeleton of a Pacman game, just the most basic concepts, without any
+bells and whistles (so of course not playable, although almost
+runnable).&lt;/p></description><content type="html"><![CDATA[<p>I have a friend who wanted to have a quick idea about whether he
+should use classes and objects for his project. Of course I told him
+that it depends.. on many aspects. He says that he doesn&rsquo;t really like
+tutorials, so here I want to propose something more compact: the
+skeleton of a Pacman game, just the most basic concepts, without any
+bells and whistles (so of course not playable, although almost
+runnable).</p>
+<p>The reason for this choice is simple: a game is, I would say, the
+quintessential type of application that benefits from being designed
+from an OOP perspective, simply because the notion of objects in it is
+usually very natural and intuitive.</p>
+<p>So without further ado, here is an hopefully self-explanatory OOP
+primer as a Pacman skeleton codebase:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Pacman</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> __init__(self):
+</span></span><span style="display:flex;"><span>        g1 <span style="color:#f92672">=</span> Ghost(<span style="color:#e6db74">&#34;Blinky&#34;</span>, <span style="color:#e6db74">&#34;red&#34;</span>, self) <span style="color:#75715e"># instance of Ghost class</span>
+</span></span><span style="display:flex;"><span>        g2 <span style="color:#f92672">=</span> Ghost(<span style="color:#e6db74">&#34;Pinky&#34;</span>, <span style="color:#e6db74">&#34;pinky&#34;</span>, self) <span style="color:#75715e"># another instance..</span>
+</span></span><span style="display:flex;"><span>        g3 <span style="color:#f92672">=</span> Ghost(<span style="color:#e6db74">&#34;Inky&#34;</span>, <span style="color:#e6db74">&#34;cyan&#34;</span>, self)
+</span></span><span style="display:flex;"><span>        g4 <span style="color:#f92672">=</span> Ghost(<span style="color:#e6db74">&#34;Clyde&#34;</span>, <span style="color:#e6db74">&#34;orange&#34;</span>, self)
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>ghosts <span style="color:#f92672">=</span> [g1, g2, g3, g4] <span style="color:#75715e"># list of instances for easier manip</span>
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>player <span style="color:#f92672">=</span> Player(self) <span style="color:#75715e"># single instance of Player class</span>
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>n_remaining_power_pellets <span style="color:#f92672">=</span> <span style="color:#ae81ff">4</span>
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>n_remaining_dots <span style="color:#f92672">=</span> <span style="color:#ae81ff">240</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">play</span>(self):
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># Main game loop!</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">while</span> self<span style="color:#f92672">.</span>player<span style="color:#f92672">.</span>is_alive:
+</span></span><span style="display:flex;"><span>            self<span style="color:#f92672">.</span>player<span style="color:#f92672">.</span>update_position()
+</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">for</span> g <span style="color:#f92672">in</span> self<span style="color:#f92672">.</span>ghosts:
+</span></span><span style="display:flex;"><span>                g<span style="color:#f92672">.</span>update_position()
+</span></span><span style="display:flex;"><span>            self<span style="color:#f92672">.</span>detect_collisions()
+</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">if</span> self<span style="color:#f92672">.</span>n_remaining_dots <span style="color:#f92672">==</span> <span style="color:#ae81ff">0</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#66d9ef">break</span> <span style="color:#75715e"># Player won!</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">detect_collisions</span>(self):
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">for</span> g <span style="color:#f92672">in</span> self<span style="color:#f92672">.</span>ghosts:
+</span></span><span style="display:flex;"><span>            <span style="color:#66d9ef">if</span> g<span style="color:#f92672">.</span>pos <span style="color:#f92672">==</span> self<span style="color:#f92672">.</span>player<span style="color:#f92672">.</span>pos:
+</span></span><span style="display:flex;"><span>                <span style="color:#66d9ef">if</span> self<span style="color:#f92672">.</span>player<span style="color:#f92672">.</span>is_invicible:
+</span></span><span style="display:flex;"><span>                    <span style="color:#75715e"># ghost is eaten</span>
+</span></span><span style="display:flex;"><span>                    self<span style="color:#f92672">.</span>ghosts<span style="color:#f92672">.</span>remove(g)
+</span></span><span style="display:flex;"><span>                <span style="color:#66d9ef">else</span>:
+</span></span><span style="display:flex;"><span>                    <span style="color:#75715e"># player dies</span>
+</span></span><span style="display:flex;"><span>                    self<span style="color:#f92672">.</span>player<span style="color:#f92672">.</span>is_alive <span style="color:#f92672">=</span> <span style="color:#66d9ef">False</span>
+</span></span><span style="display:flex;"><span>                    <span style="color:#66d9ef">break</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Entity</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> __init__(self, x0, y0, game):
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># variables which are common to all classes deriving from Entity</span>
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>pos <span style="color:#f92672">=</span> [x0, y0]
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>game <span style="color:#f92672">=</span> game <span style="color:#75715e"># instance of Pacman class</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Ghost</span>(Entity):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> __init__(self, name, color, game):
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>name <span style="color:#f92672">=</span> name
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>color <span style="color:#f92672">=</span> color
+</span></span><span style="display:flex;"><span>        super()<span style="color:#f92672">.</span>__init__(<span style="color:#ae81ff">20</span>, <span style="color:#ae81ff">20</span>, game) <span style="color:#75715e"># call Entity&#39;s constructor</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">update_position</span>(self):
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># Update self.pos randomly</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">pass</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Player</span>(Entity):
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> __init__(self, game):
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>is_alive <span style="color:#f92672">=</span> <span style="color:#66d9ef">True</span>
+</span></span><span style="display:flex;"><span>        self<span style="color:#f92672">.</span>is_invincible <span style="color:#f92672">=</span> <span style="color:#66d9ef">False</span>
+</span></span><span style="display:flex;"><span>        super()<span style="color:#f92672">.</span>__init__(<span style="color:#ae81ff">10</span>, <span style="color:#ae81ff">10</span>, game) <span style="color:#75715e"># c all Entity&#39;s constructor</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">update_position</span>(self):
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># Check input controls to get new player position</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># Check if on a power pellet do:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e">#    self.is_invincible = True</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e">#    self.game.n_remaining_power_pellets -= 1</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#75715e"># Check if on a dot, do: self.game.n_remaining_dots -= 1</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> __name__ <span style="color:#f92672">==</span> <span style="color:#e6db74">&#34;__main__&#34;</span>:
+</span></span><span style="display:flex;"><span>    game <span style="color:#f92672">=</span> Pacman()
+</span></span><span style="display:flex;"><span>    game<span style="color:#f92672">.</span>play()
+</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;Game Over!&#34;</span>)
+</span></span></code></pre></div>]]></content></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/><content type="html"><![CDATA[<ul>
+<li>
+<p>Un <strong>SCRIPT</strong> est un programme pour accomplir une tâche déterminée,
+souvent assez procédurale par nature, qui utilise peu de mécanismes
+d&rsquo;abstraction, et qui peut souvent se contenter de celles offertes
+par la librairie standard (du langage dans lequel il est écrit). Un
+script peut être composé d&rsquo;autres scripts, et sa complexité est très
+variable. Un script est idéalement documenté, mais ça sera
+typiquement à l&rsquo;usage de son propre utilisateur (possiblement son
+&ldquo;moi futur&rdquo;, qui aura oublié les détails). L&rsquo;interface d&rsquo;un script
+est souvent textuelle, via la ligne de commande.</p>
+</li>
+<li>
+<p>Une <strong>APPLICATION</strong> fait référence à un concept plus large, qui
+effectue souvent une collection de tâches (aussi généralement
+procédurales) d&rsquo;une manière intégrée, et nécessitant souvent la
+coordination de ressources ou de composantes externes (une base de
+données par exemple). Une application gère et sert souvent un groupe
+d&rsquo;usagers, et elle fera souvent usage des abstractions définies par
+un ensemble de librairies, et sera aussi souvent définie dans le
+contexte méthodologique et opérationel d&rsquo;un framework. La
+documentation qui accompagne une application est souvent pour usage
+interne, à l&rsquo;intention des programmeurs. L&rsquo;interface d&rsquo;une
+application est souvent de nature visuelle (GUI).</p>
+</li>
+<li>
+<p>La <strong>LIBRAIRIE</strong> est un type de logiciel qui propose des composantes
+réutilisables, des concepts et des abstractions (permettant de
+modéliser un domaine ou un problème particulier), en tant que &ldquo;blocs
+de construction&rdquo;, ce qui constitue son interface (qui est donc de
+nature surtout logique et conceptuelle). Son but est strictement
+d&rsquo;être utilisée par d&rsquo;autres programmes. La documentation d&rsquo;une
+librairie est particulièrement cruciale, et l&rsquo;alliage entre les
+abstractions logicielles proposées et les explications jouent
+souvent un rôle important dans la perception de qualité, ou sa
+popularité.</p>
+</li>
+<li>
+<p>Le <strong>FRAMEWORK</strong> est une librairie augmentée d&rsquo;une méthodologie (et
+souvent philosophie) de développement, dont l&rsquo;usage va déterminer la
+forme et le style du programme qui l&rsquo;utilise. Il est souvent aussi
+une &ldquo;collection de bonnes pratiques&rdquo;, qui résolvent des problèmes
+structuraux et récurrents, bien connus et documentés. Sa
+documentation est souvent quasiment un manifeste, qui tente de
+convaincre les usagers des bénéfices techniques qu&rsquo;ils pourront
+retirer de son usage.</p>
+</li>
+</ul>
+]]></content></item></channel></rss>
