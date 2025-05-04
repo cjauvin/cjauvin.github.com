@@ -16,7 +16,7 @@ quintessential type of application that benefits from being designed
 from an OOP perspective, simply because the notion of objects in it is
 usually very natural and intuitive.</p><p>So without further ado, here is an hopefully self-explanatory OOP
 primer as a Pacman skeleton codebase:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Pacman</span>:
-</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>__init__</span>(self):
 </span></span><span style=display:flex><span>        g1 <span style=color:#f92672>=</span> Ghost(<span style=color:#e6db74>&#34;Blinky&#34;</span>, <span style=color:#e6db74>&#34;red&#34;</span>, self) <span style=color:#75715e># instance of Ghost class</span>
 </span></span><span style=display:flex><span>        g2 <span style=color:#f92672>=</span> Ghost(<span style=color:#e6db74>&#34;Pinky&#34;</span>, <span style=color:#e6db74>&#34;pinky&#34;</span>, self) <span style=color:#75715e># another instance..</span>
 </span></span><span style=display:flex><span>        g3 <span style=color:#f92672>=</span> Ghost(<span style=color:#e6db74>&#34;Inky&#34;</span>, <span style=color:#e6db74>&#34;cyan&#34;</span>, self)
@@ -48,26 +48,26 @@ primer as a Pacman skeleton codebase:</p><div class=highlight><pre tabindex=0 st
 </span></span><span style=display:flex><span>                    <span style=color:#66d9ef>break</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Entity</span>:
-</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self, x0, y0, game):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>__init__</span>(self, x0, y0, game):
 </span></span><span style=display:flex><span>        <span style=color:#75715e># variables which are common to all classes deriving from Entity</span>
 </span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>pos <span style=color:#f92672>=</span> [x0, y0]
 </span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>game <span style=color:#f92672>=</span> game <span style=color:#75715e># instance of Pacman class</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Ghost</span>(Entity):
-</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self, name, color, game):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>__init__</span>(self, name, color, game):
 </span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>name <span style=color:#f92672>=</span> name
 </span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>color <span style=color:#f92672>=</span> color
-</span></span><span style=display:flex><span>        super()<span style=color:#f92672>.</span>__init__(<span style=color:#ae81ff>20</span>, <span style=color:#ae81ff>20</span>, game) <span style=color:#75715e># call Entity&#39;s constructor</span>
+</span></span><span style=display:flex><span>        super()<span style=color:#f92672>.</span><span style=color:#a6e22e>__init__</span>(<span style=color:#ae81ff>20</span>, <span style=color:#ae81ff>20</span>, game) <span style=color:#75715e># call Entity&#39;s constructor</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>update_position</span>(self):
 </span></span><span style=display:flex><span>        <span style=color:#75715e># Update self.pos randomly</span>
 </span></span><span style=display:flex><span>        <span style=color:#66d9ef>pass</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Player</span>(Entity):
-</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> __init__(self, game):
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>__init__</span>(self, game):
 </span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>is_alive <span style=color:#f92672>=</span> <span style=color:#66d9ef>True</span>
 </span></span><span style=display:flex><span>        self<span style=color:#f92672>.</span>is_invincible <span style=color:#f92672>=</span> <span style=color:#66d9ef>False</span>
-</span></span><span style=display:flex><span>        super()<span style=color:#f92672>.</span>__init__(<span style=color:#ae81ff>10</span>, <span style=color:#ae81ff>10</span>, game) <span style=color:#75715e># c all Entity&#39;s constructor</span>
+</span></span><span style=display:flex><span>        super()<span style=color:#f92672>.</span><span style=color:#a6e22e>__init__</span>(<span style=color:#ae81ff>10</span>, <span style=color:#ae81ff>10</span>, game) <span style=color:#75715e># c all Entity&#39;s constructor</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>update_position</span>(self):
 </span></span><span style=display:flex><span>        <span style=color:#75715e># Check input controls to get new player position</span>
