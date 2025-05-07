@@ -27,7 +27,7 @@ language at a "higher level", where surface details count less. When
 you succeed at operating at that level, the feeling of fluency can be
 much greater.
 
-one area where this obsessive mindset can be a decisive advantage
+One area where this obsessive mindset can be a decisive advantage
 however is computer programming, where very often, solving and
 debugging a problem will feel like striking a very recalcitrant nail
 with a hammer. It's true that sometimes you are doing it the wrong
