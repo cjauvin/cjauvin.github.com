@@ -4,17 +4,30 @@ title = "Christian Jauvin"
 # theme = "ezhil"
 # theme = "hello-friend-ng"
 # theme = "dead-simple"
-theme = "archie"
+# theme = "archie"
+theme = "PaperMod"
 
 [params]
     # mainSections = ["posts"]
     subtitle = ""
     mode = "dark"
+    defaultTheme = "dark"
+    disableSpecial1stPost = true
 
-[[params.social]]
-    name = "Github"
-    icon = "github"
-    url = "https://github.com/cjauvin"
+# [[params.homeInfoParams]]
+#   Title = "Hi there!"
+#   Content = "Welcome to my blog"
+
+    [[params.socialIcons]]
+      name = "github"
+      url = "https://github.com/cjauvin"
+
+
+# [[params.social]]
+#     name = "Github"
+#     icon = "github"
+#     url = "https://github.com/cjauvin"
+
 
 # [menu]
 #   [[menu.main]]
