@@ -1,40 +1,28 @@
 baseURL = "https://cjauvin.github.io/"
 languageCode = "en-us"
 title = "Christian Jauvin"
-# theme = "ezhil"
-# theme = "hello-friend-ng"
-# theme = "dead-simple"
-# theme = "archie"
 theme = "PaperMod"
 
 [params]
-    # mainSections = ["posts"]
-    subtitle = ""
-    mode = "dark"
-    defaultTheme = "dark"
-    disableSpecial1stPost = true
+defaultTheme = "dark"
+disableSpecial1stPost = false
 
-# [[params.homeInfoParams]]
-#   Title = "Hi there!"
-#   Content = "Welcome to my blog"
+[params.homeInfoParams]
+Title = ""
+Content = "[Professor of Practice](https://www.teluq.ca/siteweb/univ/cjauvin.html) in Computer Science at TELUQ University. My [old blog](https://cjauvin.blogspot.com)."
 
-    [[params.socialIcons]]
-      name = "github"
-      url = "https://github.com/cjauvin"
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/cjauvin"
 
+[[params.socialIcons]]
+name = "googlescholar"
+url = "https://scholar.google.ca/citations?user=AQIwobkAAAAJ&hl=en"
 
-# [[params.social]]
-#     name = "Github"
-#     icon = "github"
-#     url = "https://github.com/cjauvin"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/cjauvin/"
 
-
-# [menu]
-#   [[menu.main]]
-#     identifier = "about"
-#     name       = "About"
-#     url        = "about/"
-#   [[menu.main]]
-#     identifier = "posts"
-#     name       = "Posts"
-#     url        = "posts/"
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/ChristianJauvin"
