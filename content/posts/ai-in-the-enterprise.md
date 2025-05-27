@@ -1,7 +1,7 @@
 ---
 title: "AI in the Enterprise (what do you really think will happen?)"
 date: 2025-05-27T13:26:46-04:00
-draft: true
+draft: false
 ---
 
 There's a cottage industry of AI gurus who extol the virtues of being
