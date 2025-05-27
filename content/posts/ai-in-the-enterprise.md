@@ -30,7 +30,8 @@ espouse them. But if you think that the current AIs are simply
 powerful enough to understand, by themselves, all the rules in your
 context, that you can simply throw a bunch of PDF and PowerPoint
 documents at them with the hope that they will figure it out, you are
-deeply mistaken.
+deeply mistaken. They will figure something out that's for sure, but 
+it's very unlikely that it is what you really have in mind.
 
 Building an application with modern AI does not dispense you from
 sitting with people, to establish what exactly is the problem to solve
@@ -38,5 +39,5 @@ sitting with people, to establish what exactly is the problem to solve
 components are going to be defined and orchestrated, in order to be
 able to make use of the AI in a more realistic way than the "mind
 reading magix box" paradigm than is being sold everywhere with too
-much enthusiasm. You still to think and care about business logic,
-there is no escape.
+much enthusiasm. You still need to think and care about business
+logic, there is no escape.
