@@ -4,7 +4,7 @@ date: 2025-05-29T20:11:18-04:00
 draft: false
 ---
 
-Imagine and alternate history in which AI, in the sense of our current
+Imagine an alternate history in which AI, in the sense of our current
 LLMs, had come first. This possibly means that things would have
 looked much more like they did in the *2001: A Space Odyssey* movie:
 computers having a user interface so powerful that you don't really
@@ -12,7 +12,7 @@ need anything else (apart from a set of fancy looking dashboards
 maybe).
 
 But this is not what we got. First we got something that looked quite
-a bit like an idealized "command box" (not vocal though, but written),
+a bit like an idealized "command box" (not vocal though, but textual),
 with which you could give instructions to the computer, almost as if
 you were talking to it. But not quite. These instructions had to be
 expressed in a "language" that the computer could understand, and of
