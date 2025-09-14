@@ -29,6 +29,8 @@ It looks like this:
 First you should appreciate that this is quite a complex widget, which would
 require a lot of code in the context of a JS framework like [Material
 UI](https://mui.com/x/react-data-grid/) (for React) or others, for instance.
+Streamlit's powerfully simple programming model made it very enticing, and I was
+quite eager to make it work.
 
 A nice thing about this widget is that you can use a
 [pandas.DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
