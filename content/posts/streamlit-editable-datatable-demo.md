@@ -1,7 +1,7 @@
 ---
 title: "A Excel-like editable data grid widget with Streamlit"
 date: 2025-09-13T10:39:07-04:00
-draft: true
+draft: false
 ---
 
 I recently spent a lot of time trying to come up with an interactive data grid
