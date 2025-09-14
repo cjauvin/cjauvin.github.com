@@ -1,5 +1,5 @@
 ---
-title: "A Excel-like editable data grid widget with Streamlit"
+title: "An Excel-like editable data grid widget with Streamlit"
 date: 2025-09-13T10:39:07-04:00
 draft: false
 ---
