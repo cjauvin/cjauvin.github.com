@@ -79,6 +79,6 @@ improve my vocal understanding:
    certain words for which it's hard for me to hear what is exactly said
 5. I repeat out loud what has been said also, which is quite important
 6. Most importantly: I repeat this process (for a single video) over and over,
-   in order to reach a stage where I genuinely *understand* what is said, which
-   is a very powerful and exhilarating feeling.
+   in order to reach a stage where I genuinely *understand* what is said, in
+   *real-time*, which is a very powerful and exhilarating feeling.
 
