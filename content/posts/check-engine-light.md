@@ -28,11 +28,11 @@ regression). I don't know if it is because I'm OCD or whatever, but I often find
 that hard to manage, and with time, I have been moving quite clearly on the
 conservative side of things: for instance, there is no way you will find me
 eagerly upgrading to the new version of MacOS (Tahoe something I think), even
-though I know in advance that the upgrade warnings will annoy me. I will certain
-wait for a couple of `.x` versions to pass. Some colleagues of mine were very
-early MacOS upgraders, and I was horrified by it. Why would you take the chance
-to render such a complex work tool useless because you are too eager to try a
-shiny new UI feature? By the way, I have a similar "subtly stressful"
+though I know in advance that the upgrade warnings will annoy me. I will
+certainly wait for a couple of `.x` versions to pass. Some colleagues of mine
+were very early MacOS upgraders, and I was horrified by it. Why would you take
+the chance to render such a complex work tool useless because you are too eager
+to try a shiny new UI feature? By the way, I have a similar "subtly stressful"
 relationship with unread notifications, but that is another story.
 
 While doing software development, there is a deeper peril related to this, for
@@ -81,5 +81,12 @@ Can you see it now? Yes of course, in both cases, the AI decided that it was a
 *good thing* (tm) to send any errors in a black hole (the first time with the
 `true` command, and the second time with the dreaded `except Exception` Python
 pattern), and both times, I lost a lot of time, wandering completely in the
-dark, because there was no "stop the world, an error occurred!" safety net.
-Please AI coding agents, you should learn to NOT do that!
+dark, because there was no "stop the world, an error occurred!" safety net. What
+is notable in those two cases is that it's quite hard to come with any good
+reason for these two draconian error silencing mechanisms, in the first place.
+In both cases, if there is an error at this particular stage, it should be an
+immediate showstopper, and the underlying problem should be investigated in
+priority. Silencing these errors is a very risky strategy, and one thing is
+certain: it shouldn't be the default solution that is being offered by an AI
+coding agent, whatever the context. Please AI coding agents, you should learn to
+NOT do that!
