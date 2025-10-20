@@ -59,6 +59,12 @@ maximize honesty across the two sides of a transactional interaction (within
 yourself, and across the other actor). You are forced to be honest and
 transparent, because there is nowhere to hide.
 
+Of course this choice of name is meant to evoke the idea of [Proof of
+Work](https://en.wikipedia.org/wiki/Proof_of_work) in cryptography, with which
+it shares some structural similarity: the concept of implementing the notion of
+trust in an algorithm, to transfer its moral weight onto a mechanical, seemingly
+more objective substrate.
+
 Here's another case where a variation on this idea could work. I am a university
 professor, and there is a moral panic, across the educational field, about the
 use of AI for doing student work. How can you know if what the student did is
