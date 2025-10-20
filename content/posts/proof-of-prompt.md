@@ -74,8 +74,8 @@ because in many contexts, let's face it, it's the progressive way to go (this is
 debatable in itself of course). Then what you ask is not the result (the work)
 itself, but the conversation (the list of prompts and AI answers) that have led
 to the creation of the work. In other words, you ask for the socratic dialogue
-that the student had with the AI, and that is the "artefact" that you ultimately
-judge.
+that the student had with the AI, and that is the "artifact" that you ultimately
+judge (or grade, if you must).
 
 The Proof of Prompt is a way to "bake" the complexities of a process in an
 outcome, which is itself produced by an external entity (an AI) which, by
