@@ -1,7 +1,7 @@
 ---
 title: "Proof of Prompt"
 date: 2025-10-20T08:57:40-04:00
-draft: true
+draft: false
 ---
 
 When I'm doing freelance software development projects and I'm asked how much
