@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.151.2</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 08:57:40 -0400</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Proof of Prompt</title><link>https://cjauvin.github.io/posts/proof-of-prompt/</link><pubDate>Mon, 20 Oct 2025 08:57:40 -0400</pubDate><guid>https://cjauvin.github.io/posts/proof-of-prompt/</guid><description>&lt;p&gt;When I&amp;rsquo;m doing freelance software development projects and I&amp;rsquo;m asked how much
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 08:57:40 -0400</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Proof of Prompt</title><link>https://cjauvin.github.io/posts/proof-of-prompt/</link><pubDate>Mon, 20 Oct 2025 08:57:40 -0400</pubDate><guid>https://cjauvin.github.io/posts/proof-of-prompt/</guid><description>&lt;p&gt;When I&amp;rsquo;m doing freelance software development projects and I&amp;rsquo;m asked how much
 time things will take, it&amp;rsquo;s always very hard to answer. It&amp;rsquo;s a very high
 dimensional problem, and you have many degrees of freedom: how much should you
 charge, should you do it per hour or not, if you use AI how should it be
 factored in the efforts and time you report, what is the separation between the
 stuff that you charge and the stuff for which you don&amp;rsquo;t charge, does asking
 questions to your client to better understand the problem, on Slack in the
-weekend, count as time or not? Faced with these doubts, I guess that most people
-are quite happy to fudge a rough number, do a couple of rounds of negotiation
-about it, reach an agreement, and call it a day. They implicitly accept that the
-outcome of this process can go both ways: either you estimated too low, and this
-way you will lose something, or the contrary. And you hope that in the grand
-scheme of things, things should average out in a reasonable way: either your
-loss, or their loss, who cares in the end? But is is really working this way?&lt;/p&gt;</description></item><item><title>Ignore Your Check Engine Light at Your Own Peril</title><link>https://cjauvin.github.io/posts/check-engine-light/</link><pubDate>Sun, 05 Oct 2025 12:26:37 -0400</pubDate><guid>https://cjauvin.github.io/posts/check-engine-light/</guid><description>&lt;p&gt;Currently in my car I have the &amp;ldquo;check engine&amp;rdquo; light being on, but it&amp;rsquo;s ok,
+weekend, count as time or not? Facing these doubts, and if they forgo the route
+of charging by the hour (which can be logistically quite painful, and can lead
+to its own kind of bad outcomes) I guess that most people are quite happy to
+fudge a rough number for a flat rate, do a couple of rounds of negotiation,
+reach an agreement, and call it a day. They implicitly accept that the outcome
+of this process can go both ways: either you estimated too low, and this way you
+will lose something, or the contrary. And you hope that in the grand scheme of
+things, things should average out in a reasonable way: either your loss, or
+their loss, who cares in the end? But is is really working this way?&lt;/p&gt;</description></item><item><title>Ignore Your Check Engine Light at Your Own Peril</title><link>https://cjauvin.github.io/posts/check-engine-light/</link><pubDate>Sun, 05 Oct 2025 12:26:37 -0400</pubDate><guid>https://cjauvin.github.io/posts/check-engine-light/</guid><description>&lt;p&gt;Currently in my car I have the &amp;ldquo;check engine&amp;rdquo; light being on, but it&amp;rsquo;s ok,
 because I know what is the problem, my mechanic told me that it&amp;rsquo;s &lt;code&gt;&amp;lt;something&amp;gt;&lt;/code&gt;,
 and that even though it&amp;rsquo;s not ideal, it can wait while he finds the part to
 repair it (apparently it&amp;rsquo;s not so easy to find).&lt;/p&gt;
