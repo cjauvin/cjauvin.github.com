@@ -11,13 +11,15 @@ charge, should you do it per hour or not, if you use AI how should it be
 factored in the efforts and time you report, what is the separation between the
 stuff that you charge and the stuff for which you don't charge, does asking
 questions to your client to better understand the problem, on Slack in the
-weekend, count as time or not? Faced with these doubts, I guess that most people
-are quite happy to fudge a rough number, do a couple of rounds of negotiation
-about it, reach an agreement, and call it a day. They implicitly accept that the
-outcome of this process can go both ways: either you estimated too low, and this
-way you will lose something, or the contrary. And you hope that in the grand
-scheme of things, things should average out in a reasonable way: either your
-loss, or their loss, who cares in the end? But is is really working this way?
+weekend, count as time or not? Facing these doubts, and if they forgo the route
+of charging by the hour (which can be logistically quite painful, and can lead
+to its own kind of bad outcomes) I guess that most people are quite happy to
+fudge a rough number for a flat rate, do a couple of rounds of negotiation,
+reach an agreement, and call it a day. They implicitly accept that the outcome
+of this process can go both ways: either you estimated too low, and this way you
+will lose something, or the contrary. And you hope that in the grand scheme of
+things, things should average out in a reasonable way: either your loss, or
+their loss, who cares in the end? But is is really working this way?
 
 ![](/images/estimating-wind.png)
 
@@ -25,7 +27,7 @@ There is also a certain aspect of "symmetry" in the incentive structure of the
 problem, that is in my case very high in my list of preoccupations. In some
 situations in life, your goal is simply to maximize your own advantages, and the
 structure of the situation is such that can you can be "greedy" about it. Say
-you are negotiating your future salary with a really big, mega soulless
+you are negotiating your future salary with a really big, soulless mega
 corporation for instance. There is no real incentive for you to not try to ask
 for the maximum you can get. If you do get it, you will not really "hurt"
 anyone, except maybe your coworker, who was hired to do the same thing as you,
