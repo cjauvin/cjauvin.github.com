@@ -5,7 +5,7 @@ draft: false
 ---
 
 The original idea of AI, that we got mostly through science-fiction, and also a
-little from the philosophy of science and logic, imagined an entity that would
+little from the philosophy of mind and logic, imagined an entity that would
 implement idealized and mechanical notions of thoughts, reasoning and logic.
 Such an entity would of course know everything there is to know about such
 topics, and its behavior would thus be rooted in them. Although this would mean
