@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 10:19:39 -0500</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Manifesto: AI (as a term and field) should subsume CS</title><link>https://cjauvin.github.io/posts/cs-should-become-ai/</link><pubDate>Mon, 24 Nov 2025 10:19:39 -0500</pubDate><guid>https://cjauvin.github.io/posts/cs-should-become-ai/</guid><description>&lt;h1 id="computer-science-as-a-term-should-simply-capitulate-and-give-way-to-ai"&gt;Computer Science as a term should simply capitulate and give way to AI&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 21:02:33 -0500</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Metaphysical Boldness</title><link>https://cjauvin.github.io/posts/metaphysical-boldness/</link><pubDate>Mon, 01 Dec 2025 21:02:33 -0500</pubDate><guid>https://cjauvin.github.io/posts/metaphysical-boldness/</guid><description>&lt;h1 id="some-models-of-reality-are-bolder-than-others"&gt;Some models of reality are bolder than others&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Digital_physics"&gt;Digital physics&lt;/a&gt; is the body of
+mathematical and philosophical work treating the universe and the way it works
+as a giant digital computer. This is often associated with cellular automata,
+and names like Konrad Zuse, John Von Neumann, Stephen Wolfram, etc. What I find
+fascinating about this field is that the models it suggests are making very deep
+metaphysical claims: if they are true, it means that the underlying structure of
+the world is much different than we think, and radically simpler in a sense.
+Take the &lt;a href="https://en.wikipedia.org/wiki/Lattice_gas_automaton"&gt;lattice gas
+automaton&lt;/a&gt; for instance. A
+version of it is an hexagonal cellular automata with very simple collision
+rules, not more complicated than the famous &lt;a href="https://en.wikipedia.org/wiki/Rule_30"&gt;Rule
+30&lt;/a&gt; or
+&lt;a href="https://en.wikipedia.org/wiki/Rule_110"&gt;110&lt;/a&gt;, for 1D cellular automata. The
+impressive thing about it is that a simulation running this rule with many
+particles can be shown to approximate the &lt;a href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations"&gt;Navier-Stokes
+equations&lt;/a&gt;, which
+are the classical complicated mathematics to describe the dynamics of fluids.
+Following Wolfram, I find it very appealing to consider the idea that the world
+is not somehow running &amp;ldquo;hidden mathematics&amp;rdquo;, somewhere and somehow, to solve
+some complicated equations in a seemingly magical way, but rather, that things
+are radically simpler, in that the world is simply implementing a set of
+trivially simple rules. The world is not concerned with, or &lt;em&gt;made&lt;/em&gt; with
+mathematics, mathematics just emerges, with inherent and irreducible complexity,
+from extreme simplicity.&lt;/p&gt;</description></item><item><title>Manifesto: AI (as a term and field) should subsume CS</title><link>https://cjauvin.github.io/posts/cs-should-become-ai/</link><pubDate>Mon, 24 Nov 2025 10:19:39 -0500</pubDate><guid>https://cjauvin.github.io/posts/cs-should-become-ai/</guid><description>&lt;h1 id="computer-science-as-a-term-should-simply-capitulate-and-give-way-to-ai"&gt;Computer Science as a term should simply capitulate and give way to AI&lt;/h1&gt;
 &lt;p&gt;In French the term &amp;ldquo;informatique&amp;rdquo; feels slightly better, as a label to describe the field, than &amp;ldquo;Computer Science&amp;rdquo; feels in English.
 But this is a rare occurrence for French, because most of the other terms, like &amp;ldquo;technologie de l&amp;rsquo;information&amp;rdquo;, and &amp;ldquo;science des données&amp;rdquo;,
 feel awkward and far from their &amp;ldquo;real&amp;rdquo; cultural counterpart, the thing in itself that we do, when we do it.&lt;/p&gt;</description></item><item><title>We didn't get the AI failure modes that philosophy anticipated</title><link>https://cjauvin.github.io/posts/ai-failure-mode/</link><pubDate>Sat, 22 Nov 2025 10:22:14 -0500</pubDate><guid>https://cjauvin.github.io/posts/ai-failure-mode/</guid><description>&lt;p&gt;The original idea of AI, that we got mostly through science-fiction, and also a
