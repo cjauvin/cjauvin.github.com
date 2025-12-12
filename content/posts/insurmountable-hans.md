@@ -6,6 +6,8 @@ draft: false
 
 # Or.. the era of turbocharged goalpost moving
 
+![](/images/CleverHans.jpg)
+
 The ARC benchmark was designed by François Chollet to serve one goal : be
 sufficiently difficult, demanding so that it cannot be "hacked" by some
 "cheating" AI techniques, LLM or whatever. But it must do so in a rigorous,
