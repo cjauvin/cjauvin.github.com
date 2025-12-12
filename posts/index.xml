@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 21:02:33 -0500</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Metaphysical Boldness</title><link>https://cjauvin.github.io/posts/metaphysical-boldness/</link><pubDate>Mon, 01 Dec 2025 21:02:33 -0500</pubDate><guid>https://cjauvin.github.io/posts/metaphysical-boldness/</guid><description>&lt;h1 id="some-models-of-reality-are-bolder-than-others"&gt;Some models of reality are bolder than others&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Fri, 12 Dec 2025 13:51:53 -0500</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Insurmountable Hans</title><link>https://cjauvin.github.io/posts/insurmountable-hans/</link><pubDate>Fri, 12 Dec 2025 13:51:53 -0500</pubDate><guid>https://cjauvin.github.io/posts/insurmountable-hans/</guid><description>&lt;h1 id="or-the-era-of-turbocharged-goalpost-moving"&gt;Or.. the era of turbocharged goalpost moving&lt;/h1&gt;
+&lt;p&gt;The ARC benchmark was designed by François Chollet to serve one goal : be
+sufficiently difficult, demanding so that it cannot be &amp;ldquo;hacked&amp;rdquo; by some
+&amp;ldquo;cheating&amp;rdquo; AI techniques, LLM or whatever. But it must do so in a rigorous,
+systematic and simple to define way, it cannot be vague or ambiguous. It must be
+(relatively) easy for a human, but hard for a program. And when I first looked
+at it, I admired its simplicity and purity: the problems are simple but deep,
+and it&amp;rsquo;s clear that for many of them, you need to grasp &lt;em&gt;something&lt;/em&gt; that goes
+beyond mere pattern recognition or superficial pattern matching. They seem to
+require some seriously deeper thinking. And if, like me, you thought for a
+minute about how you&amp;rsquo;d try to tackle them, in a programmatic way (ML or
+otherwise), it was quite easy to become convinced, that this is quite a good
+benchmark. And at first, what happened, on Kaggle, for instance, was exactly
+that: nobody could get even remotely decent results, the problem set really felt
+like a though nut to crack. From there, the temptation was great, to suggest the
+idea that whenever ARC would be cracked, AGI would have arrived!&lt;/p&gt;</description></item><item><title>Metaphysical Boldness</title><link>https://cjauvin.github.io/posts/metaphysical-boldness/</link><pubDate>Mon, 01 Dec 2025 21:02:33 -0500</pubDate><guid>https://cjauvin.github.io/posts/metaphysical-boldness/</guid><description>&lt;h1 id="some-models-of-reality-are-bolder-than-others"&gt;Some models of reality are bolder than others&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Digital_physics"&gt;Digital physics&lt;/a&gt; is the body of
 mathematical and philosophical work treating the universe and the way it works
 as a giant digital computer. This is often associated with cellular automata,
