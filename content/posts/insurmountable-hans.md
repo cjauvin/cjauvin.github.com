@@ -21,7 +21,7 @@ minute about how you'd try to tackle them, in a programmatic way (ML or
 otherwise), it was quite easy to become convinced, that this is quite a good
 benchmark. And at first, what happened, on Kaggle, for instance, was exactly
 that: nobody could get even remotely decent results, the problem set really felt
-like a though nut to crack. From there, the temptation was great, to suggest the
+like a tough nut to crack. From there, the temptation was great, to suggest the
 idea that whenever ARC would be cracked, AGI would have arrived!
 
 ARC was in 2019, before the LLM-fueled latest Cambrian explosion of AI. Now that
@@ -47,7 +47,7 @@ increase? And I would like to propose a radical answer, which I'd like to call
 the "Insurmountable Hans" principle, in honor of [Clever
 Hans](https://en.wikipedia.org/wiki/Clever_Hans), the horse that learned to
 talk, and that we could not ever take seriously. I submit that whatever AI
-becomes or do, we will NEVER accept, in an anthropological way, that a machine
+becomes or does, we will NEVER accept, in an anthropological way, that a machine
 can be _really_ intelligent or behaving (or even just thinking) in a way that is
 equivalent to humans. This will never be a question of definition or criteria,
 it will just be a flat out anthropological refusal, to ever grant this ineffable
