@@ -26,3 +26,6 @@ url = "https://www.linkedin.com/in/cjauvin/"
 [[params.socialIcons]]
 name = "x"
 url = "https://x.com/ChristianJauvin"
+
+[markup.goldmark.parser.attribute]
+block = true
