@@ -7,7 +7,7 @@ draft: false
 With VS Code I am writing a lot of Markdown text these days (for instance this
 Hugo blog) and I'm using two extensions to help with my word processing needs:
 
-1. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker), which has a bunch of dictionaries for many languuages (I use French).
+1. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker), which has a bunch of dictionaries for many languages (I use French).
 
 2. [Auto Correct](https://marketplace.visualstudio.com/items?itemName=sygene.auto-correct), which is much more obscure extension (its code has not been updated for many years), which allows to automatically change a word to another
 one, as I write, based on a list of entries managed in `.vscode/settings.json`.
