@@ -55,9 +55,8 @@ it worked, and here is the result:
 {.center}
 
 So here you go: I vibe coded with ChatGPT and Claude Code something that I
-wasn't even sure was possible: an VS Code extension that acts as a bridge
-between two other extensions, in order to implement a very specific behavior I
-wanted.
+wasn't even sure was possible: a VS Code extension that acts as a bridge between
+two other extensions, in order to implement a very specific behavior I wanted.
 
 The code of this custom extension is available on my
 [GitHub](https://github.com/cjauvin/vscode-cspell-to-autocorrect/tree/main).
