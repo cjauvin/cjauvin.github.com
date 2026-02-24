@@ -6,6 +6,7 @@ theme = "PaperMod"
 [params]
 defaultTheme = "dark"
 disableSpecial1stPost = false
+author = "Christian Jauvin"
 
 [params.homeInfoParams]
 Title = ""
