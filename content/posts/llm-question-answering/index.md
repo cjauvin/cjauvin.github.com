@@ -26,10 +26,11 @@ manipulate a bunch of symbols, but they are meaningless to you. You are blind to
 their real meaning.
 
 But then what is, in essence, the act of answering a question? Why would
-ChatGPT's way of answering feel "less" authentic than our way, exactly?
-Wittgenstein would probably say that all the situations involving answering are
-part of a broad "language game" of human behaviors that we call, generally,
-"answering a question". There is no deep and unique essence of "answer-ness", or
+ChatGPT's way of answering feel "less" authentic than our way, exactly? What
+does it even mean, to understand that _something_ is a question? Wittgenstein
+would probably say that all the situations involving answering are part of a
+broad "language game" of human behaviors that we call, generally, "answering a
+question". There is no deep and unique essence of "answer-ness", or
 "question-asking-ness" : there are a multitude of loosely related behaviors,
 involving context and language, that we call such.
 
