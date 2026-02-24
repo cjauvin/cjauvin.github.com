@@ -4,8 +4,8 @@ date: 2026-02-24T11:21:12-05:00
 draft: false
 ---
 
-I was explaining to a friend recently that ChatGPT, to its core, is just a
-"model" to predict the next word, the one coming after a bunch of other words.
+I was explaining to a friend recently that ChatGPT, to its core, is "just" a
+model to predict the next word, the one coming after a bunch of other words.
 
 So when you ask it "What is the capital of France?", it does not (really) answer
 your question, it completes a sequence of words on which it has been trained,
