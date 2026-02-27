@@ -32,7 +32,7 @@ Mais alors, qu'est-ce que c'est, au fond, que l'acte de répondre à une questio
 authentique que la nôtre, exactement ? Que signifie même le fait de comprendre
 que quelque chose est une question ? Wittgenstein dirait probablement que toutes
 les situations impliquant le fait de répondre font partie d'un vaste [jeu de
-langage]()https://fr.wikipedia.org/wiki/Jeu_de_langage_(philosophie), soit un
+langage](https://fr.wikipedia.org/wiki/Jeu_de_langage_(philosophie)), soit un
 ensemble de comportements humains que l'on regroupe, de manière générale, sous
 l'appellation « répondre à une question ». Il n'y a pas d'essence profonde et
 unique de la « réponse-ité », ni de la « question-ité » : il y a une multitude
