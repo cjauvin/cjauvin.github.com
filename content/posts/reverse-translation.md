@@ -26,9 +26,9 @@ With AI, as we all know, this difficulty essentially vanishes completely,
 because it is extremely good at picking up, without any trace of doubts or
 hesitation, any verbal stuff that you might throw at it (even in foreign
 languages!). AI is, in a sense, the ideal interlocutor, but it also comes at a
-price, because the way it currently works, you can not be completely sure that
-it is not overly acceptant of you. Perhaps in the future there will be some kind
-of "knob" that can you adjust, for that? Or better yet: you will be just able to
+price, because the way it currently works, you cannot be completely sure that it
+is not overly acceptant of you. Perhaps in the future there will be some kind of
+"knob" that can you adjust, for that? Or better yet: you will be just able to
 ask them (to be less sycophantic), and you will have good reasons to believe
 them (that they will). But could it really work, or is there a deep reason why
 it couldn't?
