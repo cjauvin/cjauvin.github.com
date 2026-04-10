@@ -6,7 +6,7 @@ draft: false
 
 For some weird reason, I always had some kind of slight "mental hesitation" with the meaning of data _encoding_ versus _decoding_.
 Which one goes in what direction? To be honest, I have the same kind of weirdness with other concepts: daylight saving time for instance (are
-we gaining or losing an hour? I can never tell, for many days after a change).
+we gaining or losing an hour? I can never tell, sometimes even for many days after a change).
 
 So I wanted to create a diagram to illustrate the dichotomy between encoding and decoding, for a course I'm creating on
 software engineering. So one way to "create with AI" would be to ask one: "Can you please create a diagram to illustrate
