@@ -33,7 +33,7 @@ Or something like this:
 meaning  → (encode) →  representation  → (decode) →  meaning
 ```
 
-Then I thought ok, I can do that. Then I asked myself, to begin how can I represent _meaning_, the real world? A cloud, of course.
+Then I thought ok, I can do that. Then I asked myself, to begin: how can I represent _meaning_, the real world? A cloud, of course.
 A cloud is clearly the real world.
 
 ![](cloud.png)
@@ -49,4 +49,4 @@ And then I had it:
 
 So what I mean by this is that the meaning of "creating with AI" does not have to be fully polarized between "the AI did it entirely by itself" and
 "no I kept it fully real, no AI". Creating with AI can be a _process_, where you use the AI to think, brainstorm and iterate, in order
-to create something, together.
+to create something, together (kinda together actually, because you don't normally that you created something _together_ with a tool, so why would you say it with AI?).
