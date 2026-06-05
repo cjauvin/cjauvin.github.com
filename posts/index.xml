@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.160.1</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 12:32:58 -0400</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>What does it mean to create with AI?</title><link>https://cjauvin.github.io/posts/creating-with-ai/</link><pubDate>Thu, 09 Apr 2026 12:32:58 -0400</pubDate><guid>https://cjauvin.github.io/posts/creating-with-ai/</guid><description>&lt;p&gt;For some weird reason, I always had some kind of slight &amp;ldquo;mental hesitation&amp;rdquo; with the meaning of data &lt;em&gt;encoding&lt;/em&gt; versus &lt;em&gt;decoding&lt;/em&gt;.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.162.1</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2026 12:18:17 -0400</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Windowsification of the Work Culture</title><link>https://cjauvin.github.io/posts/windowsification/</link><pubDate>Fri, 05 Jun 2026 12:18:17 -0400</pubDate><guid>https://cjauvin.github.io/posts/windowsification/</guid><description>&lt;p&gt;When I was studying as a CS undergrad in 1998 at the University of Montreal,
+every student had a Linux account with a special folder in their &lt;code&gt;$HOME&lt;/code&gt; where
+you could put stuff which would be instantly served on the web. It took me a
+while to see the beauty of it, because at that time, I didn&amp;rsquo;t know much about
+the web and Linux.&lt;/p&gt;
+&lt;p&gt;Fast-forward in 2026, and I now work as a professor at an online university, and
+it&amp;rsquo;s strangely difficult to host anything online in that environment. Actually,
+it&amp;rsquo;s next to impossible. The only thing I have is an extremely slow and clunky
+web app to edit my home page. And whenever I change something using it, I&amp;rsquo;m
+always scared that I&amp;rsquo;m going to break or delete something. The only mechanism
+that is available for publishing stuff is based on Moodle, but it&amp;rsquo;s meant for
+the courses, and it&amp;rsquo;s not particularly user-friendly. So me and my (very few)
+colleagues, who want to publish stuff online in a more flexible way, are forced
+to use external platforms. But of course the University sees that with
+suspicious eyes. To someone who doesn&amp;rsquo;t know about it, Github might appear like
+a potentially &amp;ldquo;dangerous&amp;rdquo; platform. Who knows? Code is scary, because hackers
+are scary!&lt;/p&gt;</description></item><item><title>What does it mean to create with AI?</title><link>https://cjauvin.github.io/posts/creating-with-ai/</link><pubDate>Thu, 09 Apr 2026 12:32:58 -0400</pubDate><guid>https://cjauvin.github.io/posts/creating-with-ai/</guid><description>&lt;p&gt;For some weird reason, I always had some kind of slight &amp;ldquo;mental hesitation&amp;rdquo; with the meaning of data &lt;em&gt;encoding&lt;/em&gt; versus &lt;em&gt;decoding&lt;/em&gt;.
 Which one goes in what direction? To be honest, I have the same kind of weirdness with other concepts: daylight saving time for instance (are
 we gaining or losing an hour? I can never tell, sometimes even for many days after a change).&lt;/p&gt;
 &lt;p&gt;So I wanted to create a diagram to illustrate the dichotomy between encoding and decoding, for a course I&amp;rsquo;m creating on
