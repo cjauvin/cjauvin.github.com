@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.162.1</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2026 12:18:17 -0400</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Windowsification of the Work Culture</title><link>https://cjauvin.github.io/posts/windowsification/</link><pubDate>Fri, 05 Jun 2026 12:18:17 -0400</pubDate><guid>https://cjauvin.github.io/posts/windowsification/</guid><description>&lt;p&gt;When I was studying as a CS undergrad in 1998 at the University of Montreal,
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Christian Jauvin</title><link>https://cjauvin.github.io/posts/</link><description>Recent content in Posts on Christian Jauvin</description><generator>Hugo -- 0.164.0</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2026 16:14:13 -0400</lastBuildDate><atom:link href="https://cjauvin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Desiring, Thinking, Knowing, Doing</title><link>https://cjauvin.github.io/posts/desiring-thinking-knowing-doing/</link><pubDate>Sat, 18 Jul 2026 16:14:13 -0400</pubDate><guid>https://cjauvin.github.io/posts/desiring-thinking-knowing-doing/</guid><description>&lt;p&gt;&lt;em&gt;This article has been posted to my &lt;a href="https://cjauvin.substack.com/p/desiring-thinking-knowing-doing"&gt;Substack&lt;/a&gt; also.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Consider these situations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;You want to write a novel&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Someone asks you what is the capital of Norway&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Someone asks you how you feel today&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Someone is telling you that their program has a bug&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Suppose that you would want to write a classic program (GOFAI-style), as an agent able to implement (perform) these four scenarios. How would it work?&lt;/p&gt;
+&lt;p&gt;The first scenario should implement a kind of “desire state”. That desire state should have some “target”, which could be something like: a world in which a beautiful new novel exists, or simply, a desire to produce an interesting sequence of words, by itself.&lt;/p&gt;</description></item><item><title>The Windowsification of the Work Culture</title><link>https://cjauvin.github.io/posts/windowsification/</link><pubDate>Fri, 05 Jun 2026 12:18:17 -0400</pubDate><guid>https://cjauvin.github.io/posts/windowsification/</guid><description>&lt;p&gt;When I was studying as a CS undergrad in 1998 at the University of Montreal,
 every student had a Linux account with a special folder in their &lt;code&gt;$HOME&lt;/code&gt; where
 you could put stuff which would be instantly served on the web. It took me a
 while to see the beauty of it, because at that time, I didn&amp;rsquo;t know much about
