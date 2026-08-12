@@ -28,5 +28,9 @@ url = "https://www.linkedin.com/in/cjauvin/"
 name = "x"
 url = "https://x.com/ChristianJauvin"
 
+[[params.socialIcons]]
+name = "substack"
+url = "https://cjauvin.substack.com"
+
 [markup.goldmark.parser.attribute]
 block = true
