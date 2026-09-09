@@ -39,7 +39,7 @@ specific and non-obvious way, to every new problem you want to tackle.
 
 What LLMs brought to the table is fluid linguistic and conceptual
 understanding and mastery. This extra, very powerful ingredient first
-began to impress with its ability of writing poems, but very fast, we
+began to impress us with its ability of writing poems, but very fast, we
 realized that it also allowed AI to reason. Reasoning is another kind
 of search, in the more abstract substrate of concepts and ideas. So
 the combination of fluid conceptual intelligence and reasoning allows
