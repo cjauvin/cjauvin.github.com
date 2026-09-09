@@ -47,12 +47,12 @@ AI to search for a solution in spaces that are much more subtle, which
 results, as we are witnessing these days, in solutions to math
 problems that proved, historically, extremely hard to solve.
 
-Now what is the nature of a problem like cancer? I think it is
+Now what is the fundamental nature of the difficulty of a problem like cancer? I think it is
 probably more computational in nature, in the sense that it will
 probably require "simple" math, combined with huge computations. It is
-quite possible that the extra fluid intelligence ingredient will
-provide tremendous help, in making sure that it has read and
-integrated the full body of scientific knowledge, but in the final
-resort, I suspect that the core engine will be more in the raw
+quite possible that the extra fluid intelligence ingredient will also
+provide tremendous help, in making sure that the full body of scientific knowledge
+has been properly read and integrated, but in the final
+resort, I suspect that the core engine of the eventual solution will be more in the raw
 computation domain, than in the highly abstract realm of extremely
 subtle ideas.
