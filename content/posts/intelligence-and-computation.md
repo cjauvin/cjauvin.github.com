@@ -4,6 +4,8 @@ date: 2026-09-09T17:56:44-04:00
 draft: false
 ---
 
+_This article has been posted to my [Substack](https://cjauvin.substack.com/p/intelligence-and-computation) also._
+
 ## Or: Why searching for a solution to Navier-Stokes is fundamentally different than searching for a cancer cure
 
 There are two kinds of mathematics: "simple" ones, with which you can
