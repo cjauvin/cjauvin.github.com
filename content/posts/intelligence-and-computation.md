@@ -17,10 +17,10 @@ get very impressive and useful results. You can simulate reality, get
 conversational intelligence, etc.
 
 The second type of math is much more complicated, profound,
-philosophical and scary. It is the world of longstanding very
+philosophical and scary. It is the world of longstanding and very
 difficult, possibly impossible to solve problems and conjectures. The
 simple task of understanding these problems is often a very difficult
-task, in itself. Are the "zeros" of a very exotic and weird function,
+one, in itself. Are the "zeros" of a very exotic and weird function,
 defined in the complex plane, all lying on a particular strip? It
 seems that yes, but we're not sure. Is there a fundamental wall
 separating a certain class of problems (P) from another class of
@@ -30,7 +30,7 @@ about it.
 
 Before the advent of LLMs, the problem of searching for very difficult
 to find things (like the solution to a hard problem) was often
-performed with search algorithms, which implements the act of
+performed with search algorithms, which implement the act of
 searching in a very straightforward way, akin to the way a chess
 engine might search for the best move, by moving in a tree of possible
 ones. This is a very powerful idea, but the problem is that it is not
@@ -39,8 +39,8 @@ specific and non-obvious way, to every new problem you want to tackle.
 
 What LLMs brought to the table is fluid linguistic and conceptual
 understanding and mastery. This extra, very powerful ingredient first
-began to impress us with its ability of writing poems, but very fast, we
-realized that it also allowed AI to reason. Reasoning is another kind
+began to impress us with its ability to write poems, but very fast, we
+realized that it also allowed AI to reason, in the classical sense. Reasoning is another kind
 of search, in the more abstract substrate of concepts and ideas. So
 the combination of fluid conceptual intelligence and reasoning allows
 AI to search for a solution in spaces that are much more subtle, which
@@ -54,5 +54,5 @@ quite possible that the extra fluid intelligence ingredient will also
 provide tremendous help, in making sure that the full body of scientific knowledge
 has been properly read and integrated, but in the final
 resort, I suspect that the core engine of the eventual solution will be more in the raw
-computation domain, than in the highly abstract realm of extremely
+computational domain, rather than the highly abstract realm of extremely
 subtle ideas.
