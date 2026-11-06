@@ -1,5 +1,6 @@
+{{- $key := .Get "key" | default "projects" }}
 <div class="projects-grid">
-{{- range .Page.Params.projects }}
+{{- range index .Page.Params $key }}
   <article class="project-card">
     <a class="project-thumb" href="{{ .url }}" target="_blank" rel="noopener">
       <img src="{{ .image | relURL }}" alt="{{ .name }}" loading="lazy">

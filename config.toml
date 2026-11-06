@@ -37,6 +37,11 @@ block = true
 
 [menu]
   [[menu.main]]
+    identifier = "courses"
+    name = "Courses"
+    url = "/courses/"
+    weight = 5
+  [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
