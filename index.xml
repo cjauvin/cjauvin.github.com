@@ -233,7 +233,34 @@ that it depends.. on many aspects. He says that he doesn&amp;rsquo;t really like
 tutorials, so here I want to propose something more compact: the
 skeleton of a Pacman game, just the most basic concepts, without any
 bells and whistles (so of course not playable, although almost
-runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/></item><item><title>Learning</title><link>https://cjauvin.github.io/learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/learning/</guid><description>&lt;p&gt;Things I am studying for myself, outside of work, with the tools and detours
+runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/></item><item><title>Courses</title><link>https://cjauvin.github.io/courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/courses/</guid><description>&lt;p&gt;The two courses I teach at &lt;a href="https://www.teluq.ca"&gt;TELUQ University&lt;/a&gt;. Both are
+open, online, and written in French.&lt;/p&gt;
+&lt;div class="projects-grid"&gt;
+&lt;article class="project-card"&gt;
+&lt;a class="project-thumb" href="https://cjauvin.github.io/inf1901-teluq-v2/" target="_blank" rel="noopener"&gt;
+&lt;img src="https://cjauvin.github.io/images/courses/inf1901.jpg" alt="INF 1901 · Initiation à l&amp;#39;intelligence artificielle" loading="lazy"&gt;
+&lt;/a&gt;
+&lt;div class="project-body"&gt;
+&lt;h3 class="project-title"&gt;&lt;a href="https://cjauvin.github.io/inf1901-teluq-v2/" target="_blank" rel="noopener"&gt;INF 1901 · Initiation à l&amp;#39;intelligence artificielle&lt;/a&gt;&lt;/h3&gt;
+&lt;p class="project-blurb"&gt;Concepts et réflexions. An introduction to AI in five modules: the symbolic origins, machine learning, neural networks and deep learning, generative AI and large language models, and AI in the world, from the question of whether a machine can think to work, democracy and the ecological cost. Version 2, updated continuously.&lt;/p&gt;
+&lt;p class="project-links"&gt;
+&lt;a href="https://cjauvin.github.io/inf1901-teluq-v2/" target="_blank" rel="noopener"&gt;Visit ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/inf1901-teluq-v2" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;TELUQ&lt;/span&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;article class="project-card"&gt;
+&lt;a class="project-thumb" href="https://cjauvin.github.io/inf1410-teluq/" target="_blank" rel="noopener"&gt;
+&lt;img src="https://cjauvin.github.io/images/courses/inf1410.jpg" alt="INF 1410 · Initiation au génie logiciel" loading="lazy"&gt;
+&lt;/a&gt;
+&lt;div class="project-body"&gt;
+&lt;h3 class="project-title"&gt;&lt;a href="https://cjauvin.github.io/inf1410-teluq/" target="_blank" rel="noopener"&gt;INF 1410 · Initiation au génie logiciel&lt;/a&gt;&lt;/h3&gt;
+&lt;p class="project-blurb"&gt;An introduction to software engineering for the age of agentic AI, in six modules: from writing a correct program to building systems, working in a team, keeping software alive in production, and the place of software in the world. Built on general technological culture, historical perspective and direct hands-on experience rather than formalisms and diagrams.&lt;/p&gt;
+&lt;p class="project-links"&gt;
+&lt;a href="https://cjauvin.github.io/inf1410-teluq/" target="_blank" rel="noopener"&gt;Visit ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/inf1410-teluq" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;TELUQ&lt;/span&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;</description></item><item><title>Learning</title><link>https://cjauvin.github.io/learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/learning/</guid><description>&lt;p&gt;Things I am studying for myself, outside of work, with the tools and detours
 they have produced along the way. &lt;em&gt;Last updated: November 2026.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id="persian"&gt;Persian&lt;/h2&gt;
 &lt;figure&gt;
