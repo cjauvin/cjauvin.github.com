@@ -235,12 +235,20 @@ skeleton of a Pacman game, just the most basic concepts, without any
 bells and whistles (so of course not playable, although almost
 runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/></item><item><title>Learning</title><link>https://cjauvin.github.io/learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/learning/</guid><description>&lt;p&gt;Things I am studying for myself, outside of work, with the tools and detours
 they have produced along the way. &lt;em&gt;Last updated: November 2026.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id="lean"&gt;Lean&lt;/h2&gt;
-&lt;p&gt;I became curious about &lt;a href="https://lean-lang.org"&gt;Lean&lt;/a&gt; because of its recent
-importance in the AI advances in mathematics. When a language model proposes a
-proof, something has to check it, and Lean is increasingly that something: a
-proof that compiles is a proof, whatever produced it. I wanted to understand
-what that checker actually is, from the inside.&lt;/p&gt;</description></item><item><title>Projects</title><link>https://cjauvin.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/projects/</guid><description>&lt;p&gt;Small things I built for the pleasure of it, mostly browser toys. They are all open source.&lt;/p&gt;
+&lt;h2 id="persian"&gt;Persian&lt;/h2&gt;
+&lt;figure&gt;
+&lt;img loading="lazy" src="https://cjauvin.github.io/images/learning/shah-mosque-isfahan.jpg"
+alt="The tiled entrance portal of the Shah Mosque in Isfahan"/&gt; &lt;figcaption&gt;
+&lt;p&gt;The entrance portal of the Shah Mosque on Naqsh-e Jahan Square, Isfahan. Photo: &lt;a href="https://delso.photo"&gt;Diego Delso&lt;/a&gt;, CC BY-SA 4.0, via Wikimedia Commons.&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I have been learning Persian (Farsi) for some time now. The central tool is
+&lt;a href="https://ankiweb.net"&gt;Anki&lt;/a&gt;, where I keep a never-ending deck of my own cards.
+Most of them are grammar-focused phrases rather than single words, taken from
+daily life or, very often, straight from the videos of
+&lt;a href="https://www.youtube.com/@PersianLearning"&gt;Persian Learning&lt;/a&gt;, Majid&amp;rsquo;s YouTube
+channel. I wrote up the whole workflow, screenshots and ChatGPT included, in
+&lt;a href="https://cjauvin.github.io/posts/learning-persian/"&gt;Learning Persian with Anki, ChatGPT and YouTube&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Projects</title><link>https://cjauvin.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/projects/</guid><description>&lt;p&gt;Small things I built for the pleasure of it, mostly browser toys. They are all open source.&lt;/p&gt;
 &lt;div class="projects-grid"&gt;
 &lt;article class="project-card"&gt;
 &lt;a class="project-thumb" href="https://cjauvin.github.io/pixel-cabinet/" target="_blank" rel="noopener"&gt;
