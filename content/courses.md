@@ -20,7 +20,7 @@ courses:
     blurb: "An introduction to software engineering for the age of agentic AI, in six modules: from writing a correct program to building systems, working in a team, keeping software alive in production, and the place of software in the world. Built on general technological culture, historical perspective and direct hands-on experience rather than formalisms and diagrams."
 ---
 
-The two courses I teach at [TELUQ University](https://www.teluq.ca). Both are
+The two courses I created and teach at [TELUQ University](https://www.teluq.ca). Both are
 open, online, and written in French.
 
 {{< projects key="courses" >}}
