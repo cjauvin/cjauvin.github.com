@@ -41,3 +41,8 @@ block = true
     name = "Projects"
     url = "/projects/"
     weight = 10
+  [[menu.main]]
+    identifier = "learning"
+    name = "Learning"
+    url = "/learning/"
+    weight = 20
