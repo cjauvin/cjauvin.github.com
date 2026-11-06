@@ -32,6 +32,13 @@ projects:
     action: "Play"
     tech: "three.js"
     blurb: "A free solo climbing game for the browser. One 62 m route, no rope. Your forearms tire, holds can be loose, and if you let go with both hands, you fall. Desktop browser, mouse and keyboard required."
+  - name: "Learn Lean"
+    url: "https://github.com/cjauvin/learn-lean"
+    repo: "https://github.com/cjauvin/learn-lean"
+    image: "/images/projects/learn-lean.jpg"
+    action: "Browse"
+    tech: "Lean 4"
+    blurb: "An interactive, puzzle-driven course in Lean 4: programming first, proofs second, with the punchline that they were the same thing all along. 73 exercises across 8 chapters, each with a test that goes red until you solve it, plus three browser applets for the things that are hard to see from inside a text editor."
 ---
 
 Small things I built for the pleasure of it, mostly browser toys. They are all open source.
