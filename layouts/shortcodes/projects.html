@@ -1,0 +1,18 @@
+<div class="projects-grid">
+{{- range .Page.Params.projects }}
+  <article class="project-card">
+    <a class="project-thumb" href="{{ .url }}" target="_blank" rel="noopener">
+      <img src="{{ .image | relURL }}" alt="{{ .name }}" loading="lazy">
+    </a>
+    <div class="project-body">
+      <h3 class="project-title"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></h3>
+      <p class="project-blurb">{{ .blurb | markdownify }}</p>
+      <p class="project-links">
+        <a href="{{ .url }}" target="_blank" rel="noopener">{{ .action | default "Open" }} ↗</a>
+        {{- with .repo }} · <a href="{{ . }}" target="_blank" rel="noopener">Source</a>{{ end }}
+        {{- with .tech }} <span class="project-tech">{{ . }}</span>{{ end }}
+      </p>
+    </div>
+  </article>
+{{- end }}
+</div>

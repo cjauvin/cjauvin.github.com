@@ -34,3 +34,10 @@ url = "https://cjauvin.substack.com"
 
 [markup.goldmark.parser.attribute]
 block = true
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
