@@ -37,6 +37,8 @@ Lean 4
 
 ## Persian
 
+{{< figure src="/images/learning/shah-mosque-isfahan.jpg" alt="The tiled entrance portal of the Shah Mosque in Isfahan" caption="The entrance portal of the Shah Mosque on Naqsh-e Jahan Square, Isfahan. Photo: [Diego Delso](https://delso.photo), CC BY-SA 4.0, via Wikimedia Commons." >}}
+
 I have been learning Persian (Farsi) for some time now. The central tool is
 [Anki](https://ankiweb.net), where I keep a never-ending deck of my own cards.
 Most of them are grammar-focused phrases rather than single words, taken from
