@@ -233,7 +233,14 @@ that it depends.. on many aspects. He says that he doesn&amp;rsquo;t really like
 tutorials, so here I want to propose something more compact: the
 skeleton of a Pacman game, just the most basic concepts, without any
 bells and whistles (so of course not playable, although almost
-runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/></item><item><title>Projects</title><link>https://cjauvin.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/projects/</guid><description>&lt;p&gt;Small things I built for the pleasure of it, mostly browser toys. They are all open source.&lt;/p&gt;
+runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/></item><item><title>Learning</title><link>https://cjauvin.github.io/learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/learning/</guid><description>&lt;p&gt;Things I am studying for myself, outside of work, with the tools and detours
+they have produced along the way. &lt;em&gt;Last updated: November 2026.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id="lean"&gt;Lean&lt;/h2&gt;
+&lt;p&gt;I became curious about &lt;a href="https://lean-lang.org"&gt;Lean&lt;/a&gt; because of its recent
+importance in the AI advances in mathematics. When a language model proposes a
+proof, something has to check it, and Lean is increasingly that something: a
+proof that compiles is a proof, whatever produced it. I wanted to understand
+what that checker actually is, from the inside.&lt;/p&gt;</description></item><item><title>Projects</title><link>https://cjauvin.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/projects/</guid><description>&lt;p&gt;Small things I built for the pleasure of it, mostly browser toys. They are all open source.&lt;/p&gt;
 &lt;div class="projects-grid"&gt;
 &lt;article class="project-card"&gt;
 &lt;a class="project-thumb" href="https://cjauvin.github.io/pixel-cabinet/" target="_blank" rel="noopener"&gt;
@@ -280,18 +287,6 @@ runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre typ
 &lt;p class="project-blurb"&gt;A free solo climbing game for the browser. One 62 m route, no rope. Your forearms tire, holds can be loose, and if you let go with both hands, you fall. Desktop browser, mouse and keyboard required.&lt;/p&gt;
 &lt;p class="project-links"&gt;
 &lt;a href="https://cjauvin.github.io/climb/" target="_blank" rel="noopener"&gt;Play ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/climb" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;three.js&lt;/span&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/article&gt;
-&lt;article class="project-card"&gt;
-&lt;a class="project-thumb" href="https://github.com/cjauvin/learn-lean" target="_blank" rel="noopener"&gt;
-&lt;img src="https://cjauvin.github.io/images/projects/learn-lean.jpg" alt="Learn Lean" loading="lazy"&gt;
-&lt;/a&gt;
-&lt;div class="project-body"&gt;
-&lt;h3 class="project-title"&gt;&lt;a href="https://github.com/cjauvin/learn-lean" target="_blank" rel="noopener"&gt;Learn Lean&lt;/a&gt;&lt;/h3&gt;
-&lt;p class="project-blurb"&gt;An interactive, puzzle-driven course in Lean 4: programming first, proofs second, with the punchline that they were the same thing all along. 73 exercises across 8 chapters, each with a test that goes red until you solve it, plus three browser applets for the things that are hard to see from inside a text editor.&lt;/p&gt;
-&lt;p class="project-links"&gt;
-&lt;a href="https://github.com/cjauvin/learn-lean" target="_blank" rel="noopener"&gt;Browse ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/learn-lean" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;Lean 4&lt;/span&gt;
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/article&gt;
