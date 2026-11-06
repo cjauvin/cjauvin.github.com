@@ -10,7 +10,7 @@ author = "Christian Jauvin"
 
 [params.homeInfoParams]
 Title = ""
-Content = "[Professor of Practice](https://www.teluq.ca/siteweb/univ/cjauvin.html) in Computer Science at TELUQ University. My [old blog](https://cjauvin.blogspot.com)."
+Content = "[Professor of Practice](https://www.teluq.ca/siteweb/univ/cjauvin.html) in Computer Science at TELUQ University, and co-founder of [MyHarness](https://myharness.xyz), an AI engineering studio. My [old blog](https://cjauvin.blogspot.com)."
 
 [[params.socialIcons]]
 name = "github"
