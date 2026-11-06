@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Christian Jauvin</title><link>https://cjauvin.github.io/</link><description>Recent content on Christian Jauvin</description><generator>Hugo -- 0.166.0</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2026 17:56:44 -0400</lastBuildDate><atom:link href="https://cjauvin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Intelligence and Computation</title><link>https://cjauvin.github.io/posts/intelligence-and-computation/</link><pubDate>Wed, 09 Sep 2026 17:56:44 -0400</pubDate><guid>https://cjauvin.github.io/posts/intelligence-and-computation/</guid><description>&lt;p&gt;&lt;em&gt;This article has been posted to my &lt;a href="https://cjauvin.substack.com/p/intelligence-and-computation"&gt;Substack&lt;/a&gt; also.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Christian Jauvin</title><link>https://cjauvin.github.io/</link><description>Recent content on Christian Jauvin</description><generator>Hugo -- 0.169.0</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2026 17:56:44 -0400</lastBuildDate><atom:link href="https://cjauvin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Intelligence and Computation</title><link>https://cjauvin.github.io/posts/intelligence-and-computation/</link><pubDate>Wed, 09 Sep 2026 17:56:44 -0400</pubDate><guid>https://cjauvin.github.io/posts/intelligence-and-computation/</guid><description>&lt;p&gt;&lt;em&gt;This article has been posted to my &lt;a href="https://cjauvin.substack.com/p/intelligence-and-computation"&gt;Substack&lt;/a&gt; also.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id="or-why-searching-for-a-solution-to-navier-stokes-is-fundamentally-different-than-searching-for-a-cancer-cure"&gt;Or: Why searching for a solution to Navier-Stokes is fundamentally different than searching for a cancer cure&lt;/h2&gt;
 &lt;p&gt;There are two kinds of mathematics: &amp;ldquo;simple&amp;rdquo; ones, with which you can
 create a complex video game, implement a working replacement for a
@@ -81,7 +81,9 @@ Hugo blog) and I&amp;rsquo;m using two extensions to help with my word processin
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://marketplace.visualstudio.com/items?itemName=sygene.auto-correct"&gt;Auto Correct&lt;/a&gt;, which is much more obscure extension (its code has not been updated for many years), which allows to automatically change a word to another
-one, as I write, based on a list of entries managed in &lt;code&gt;.vscode/settings.json&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Voting as a way to surface the hidden reasons</title><link>https://cjauvin.github.io/posts/voting/</link><pubDate>Wed, 17 Dec 2025 11:43:00 -0500</pubDate><guid>https://cjauvin.github.io/posts/voting/</guid><description>&lt;p&gt;Imagine a situation where a majority effectively has a quiet veto over a change. Not because the status quo truly serves them, but because, for each individual person, it feels simpler to go along with it. Speaking up costs energy. It risks conflict. It can feel embarrassing, or socially unsafe. So something persists that does not really benefit the majority, and yet is still easier, moment by moment, to maintain.&lt;/p&gt;</description></item><item><title>Insurmountable Hans</title><link>https://cjauvin.github.io/posts/insurmountable-hans/</link><pubDate>Fri, 12 Dec 2025 13:51:53 -0500</pubDate><guid>https://cjauvin.github.io/posts/insurmountable-hans/</guid><description>&lt;h1 id="or-the-era-of-turbocharged-goalpost-moving"&gt;Or.. the era of turbocharged goalpost moving&lt;/h1&gt;
+one, as I write, based on a list of entries managed in &lt;code&gt;.vscode/settings.json&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Voting as a way to surface the hidden reasons</title><link>https://cjauvin.github.io/posts/voting/</link><pubDate>Wed, 17 Dec 2025 11:43:00 -0500</pubDate><guid>https://cjauvin.github.io/posts/voting/</guid><description>&lt;p&gt;Imagine a situation where a majority effectively has a quiet veto over a change. Not because the status quo truly serves them, but because, for each individual person, it feels simpler to go along with it. Speaking up costs energy. It risks conflict. It can feel embarrassing, or socially unsafe. So something persists that does not really benefit the majority, and yet is still easier, moment by moment, to maintain.&lt;/p&gt;</description></item><item><title>Insurmountable Hans</title><link>https://cjauvin.github.io/posts/insurmountable-hans/</link><pubDate>Fri, 12 Dec 2025 13:51:53 -0500</pubDate><guid>https://cjauvin.github.io/posts/insurmountable-hans/</guid><description>&lt;h1 id="or-the-era-of-turbocharged-goalpost-moving"&gt;Or.. the era of turbocharged goalpost moving&lt;/h1&gt;
 &lt;p&gt;&lt;img loading="lazy" src="https://cjauvin.github.io/images/CleverHans.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;The ARC benchmark was designed by François Chollet to serve one goal : be
 sufficiently difficult, demanding so that it cannot be &amp;ldquo;hacked&amp;rdquo; by some
@@ -231,4 +233,54 @@ that it depends.. on many aspects. He says that he doesn&amp;rsquo;t really like
 tutorials, so here I want to propose something more compact: the
 skeleton of a Pacman game, just the most basic concepts, without any
 bells and whistles (so of course not playable, although almost
-runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/></item></channel></rss>
+runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre types de programme</title><link>https://cjauvin.github.io/posts/4-types-de-programme/</link><pubDate>Sat, 29 Jan 2022 11:58:40 -0500</pubDate><guid>https://cjauvin.github.io/posts/4-types-de-programme/</guid><description/></item><item><title>Projects</title><link>https://cjauvin.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cjauvin.github.io/projects/</guid><description>&lt;p&gt;Small things I built for the pleasure of it, mostly browser toys. They are all open source.&lt;/p&gt;
+&lt;div class="projects-grid"&gt;
+&lt;article class="project-card"&gt;
+&lt;a class="project-thumb" href="https://cjauvin.github.io/pixel-cabinet/" target="_blank" rel="noopener"&gt;
+&lt;img src="https://cjauvin.github.io/images/projects/pixel-cabinet.jpg" alt="Cabinet of Distilled Pixels" loading="lazy"&gt;
+&lt;/a&gt;
+&lt;div class="project-body"&gt;
+&lt;h3 class="project-title"&gt;&lt;a href="https://cjauvin.github.io/pixel-cabinet/" target="_blank" rel="noopener"&gt;Cabinet of Distilled Pixels&lt;/a&gt;&lt;/h3&gt;
+&lt;p class="project-blurb"&gt;Thirty classic arcade mechanics, from 1962 to today, each boiled down to its rules and running live on a small grid in the same five colours. You can see at a glance how Pong grew into Breakout, or what Pac-Man and Bomberman have in common.&lt;/p&gt;
+&lt;p class="project-links"&gt;
+&lt;a href="https://cjauvin.github.io/pixel-cabinet/" target="_blank" rel="noopener"&gt;Visit ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/pixel-cabinet" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;canvas&lt;/span&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;article class="project-card"&gt;
+&lt;a class="project-thumb" href="https://cjauvin.github.io/esterhazy-3d/" target="_blank" rel="noopener"&gt;
+&lt;img src="https://cjauvin.github.io/images/projects/esterhazy-3d.jpg" alt="The Esterházy Palace, Eisenstadt" loading="lazy"&gt;
+&lt;/a&gt;
+&lt;div class="project-body"&gt;
+&lt;h3 class="project-title"&gt;&lt;a href="https://cjauvin.github.io/esterhazy-3d/" target="_blank" rel="noopener"&gt;The Esterházy Palace, Eisenstadt&lt;/a&gt;&lt;/h3&gt;
+&lt;p class="project-blurb"&gt;A walkable reconstruction of Schloss Esterházy and its square, after an unsigned 19th-century coloured engraving, with the whole scene rendered as an engraving. Follow the harpsichord to the great hall where Haydn&amp;rsquo;s orchestra played.&lt;/p&gt;
+&lt;p class="project-links"&gt;
+&lt;a href="https://cjauvin.github.io/esterhazy-3d/" target="_blank" rel="noopener"&gt;Walk in ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/esterhazy-3d" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;three.js&lt;/span&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;article class="project-card"&gt;
+&lt;a class="project-thumb" href="https://cjauvin.github.io/naqsh-e-jahaan-3d/" target="_blank" rel="noopener"&gt;
+&lt;img src="https://cjauvin.github.io/images/projects/naqsh-e-jahan-3d.jpg" alt="Naqsh-e Jahan Square, Isfahan" loading="lazy"&gt;
+&lt;/a&gt;
+&lt;div class="project-body"&gt;
+&lt;h3 class="project-title"&gt;&lt;a href="https://cjauvin.github.io/naqsh-e-jahaan-3d/" target="_blank" rel="noopener"&gt;Naqsh-e Jahan Square, Isfahan&lt;/a&gt;&lt;/h3&gt;
+&lt;p class="project-blurb"&gt;An explorable model of the royal square of Shah Abbas, with the Shah Mosque, the Sheikh Lotfollah Mosque, Ali Qapu and the bazaar gate. Every tile pattern and every note of the Persian soundscape is generated in the browser, with no asset files.&lt;/p&gt;
+&lt;p class="project-links"&gt;
+&lt;a href="https://cjauvin.github.io/naqsh-e-jahaan-3d/" target="_blank" rel="noopener"&gt;Walk in ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/naqsh-e-jahaan-3d" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;three.js&lt;/span&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;article class="project-card"&gt;
+&lt;a class="project-thumb" href="https://cjauvin.github.io/climb/" target="_blank" rel="noopener"&gt;
+&lt;img src="https://cjauvin.github.io/images/projects/climb.jpg" alt="Solo" loading="lazy"&gt;
+&lt;/a&gt;
+&lt;div class="project-body"&gt;
+&lt;h3 class="project-title"&gt;&lt;a href="https://cjauvin.github.io/climb/" target="_blank" rel="noopener"&gt;Solo&lt;/a&gt;&lt;/h3&gt;
+&lt;p class="project-blurb"&gt;A free solo climbing game for the browser. One 62 m route, no rope. Your forearms tire, holds can be loose, and if you let go with both hands, you fall. Desktop browser, mouse and keyboard required.&lt;/p&gt;
+&lt;p class="project-links"&gt;
+&lt;a href="https://cjauvin.github.io/climb/" target="_blank" rel="noopener"&gt;Play ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/climb" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;three.js&lt;/span&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;</description></item></channel></rss>
