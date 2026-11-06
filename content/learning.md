@@ -8,6 +8,30 @@ comments: false
 Things I am studying for myself, outside of work, with the tools and detours
 they have produced along the way. *Last updated: November 2026.*
 
+## Persian
+
+{{< figure src="/images/learning/shah-mosque-isfahan.jpg" alt="The tiled entrance portal of the Shah Mosque in Isfahan" caption="The entrance portal of the Shah Mosque on Naqsh-e Jahan Square, Isfahan. Photo: [Diego Delso](https://delso.photo), CC BY-SA 4.0, via Wikimedia Commons." >}}
+
+I have been learning Persian (Farsi) for some time now. The central tool is
+[Anki](https://ankiweb.net), where I keep a never-ending deck of my own cards.
+Most of them are grammar-focused phrases rather than single words, taken from
+daily life or, very often, straight from the videos of
+[Persian Learning](https://www.youtube.com/@PersianLearning), Majid's YouTube
+channel. I wrote up the whole workflow, screenshots and ChatGPT included, in
+[Learning Persian with Anki, ChatGPT and YouTube](/posts/learning-persian/).
+
+Along the way I noticed that the hard direction of translation is not the one
+we usually think about. Producing the new language is visibly difficult, but
+rendering it back into your own, faithfully, turns out to be the deeper
+problem. That became
+[The reverse difficulty of translation](/posts/reverse-translation/).
+
+The language also pulled in the culture. The
+[explorable 3D model of Naqsh-e Jahan Square](https://cjauvin.github.io/naqsh-e-jahaan-3d/)
+in Isfahan, with its synthesized Persian soundscape of santur, ney and
+tombak, started as a way of walking around in the place the words come from.
+It lives on the [Projects](/projects/) page.
+
 ## Lean
 
 I became curious about [Lean](https://lean-lang.org) because of its recent
@@ -34,27 +58,3 @@ replays real proofs tactic by tactic.
 
 [Source and exercises on GitHub](https://github.com/cjauvin/learn-lean) ·
 Lean 4
-
-## Persian
-
-{{< figure src="/images/learning/shah-mosque-isfahan.jpg" alt="The tiled entrance portal of the Shah Mosque in Isfahan" caption="The entrance portal of the Shah Mosque on Naqsh-e Jahan Square, Isfahan. Photo: [Diego Delso](https://delso.photo), CC BY-SA 4.0, via Wikimedia Commons." >}}
-
-I have been learning Persian (Farsi) for some time now. The central tool is
-[Anki](https://ankiweb.net), where I keep a never-ending deck of my own cards.
-Most of them are grammar-focused phrases rather than single words, taken from
-daily life or, very often, straight from the videos of
-[Persian Learning](https://www.youtube.com/@PersianLearning), Majid's YouTube
-channel. I wrote up the whole workflow, screenshots and ChatGPT included, in
-[Learning Persian with Anki, ChatGPT and YouTube](/posts/learning-persian/).
-
-Along the way I noticed that the hard direction of translation is not the one
-we usually think about. Producing the new language is visibly difficult, but
-rendering it back into your own, faithfully, turns out to be the deeper
-problem. That became
-[The reverse difficulty of translation](/posts/reverse-translation/).
-
-The language also pulled in the culture. The
-[explorable 3D model of Naqsh-e Jahan Square](https://cjauvin.github.io/naqsh-e-jahaan-3d/)
-in Isfahan, with its synthesized Persian soundscape of santur, ney and
-tombak, started as a way of walking around in the place the words come from.
-It lives on the [Projects](/projects/) page.
