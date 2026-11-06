@@ -283,4 +283,16 @@ runnable).&lt;/p&gt;</description></item><item><title>Il y a au moins quatre typ
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/article&gt;
+&lt;article class="project-card"&gt;
+&lt;a class="project-thumb" href="https://github.com/cjauvin/learn-lean" target="_blank" rel="noopener"&gt;
+&lt;img src="https://cjauvin.github.io/images/projects/learn-lean.jpg" alt="Learn Lean" loading="lazy"&gt;
+&lt;/a&gt;
+&lt;div class="project-body"&gt;
+&lt;h3 class="project-title"&gt;&lt;a href="https://github.com/cjauvin/learn-lean" target="_blank" rel="noopener"&gt;Learn Lean&lt;/a&gt;&lt;/h3&gt;
+&lt;p class="project-blurb"&gt;An interactive, puzzle-driven course in Lean 4: programming first, proofs second, with the punchline that they were the same thing all along. 73 exercises across 8 chapters, each with a test that goes red until you solve it, plus three browser applets for the things that are hard to see from inside a text editor.&lt;/p&gt;
+&lt;p class="project-links"&gt;
+&lt;a href="https://github.com/cjauvin/learn-lean" target="_blank" rel="noopener"&gt;Browse ↗&lt;/a&gt; · &lt;a href="https://github.com/cjauvin/learn-lean" target="_blank" rel="noopener"&gt;Source&lt;/a&gt; &lt;span class="project-tech"&gt;Lean 4&lt;/span&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
 &lt;/div&gt;</description></item></channel></rss>
