@@ -18,9 +18,16 @@ courses:
     action: "Visit"
     tech: "TELUQ"
     blurb: "An introduction to software engineering for the age of agentic AI, in six modules: from writing a correct program to building systems, working in a team, keeping software alive in production, and the place of software in the world. Built on general technological culture, historical perspective and direct hands-on experience rather than formalisms and diagrams."
+  - name: "IA agentique · Fondements, conception et développement"
+    url: "https://cjauvin.github.io/cours-agentique-teluq/"
+    repo: "https://github.com/cjauvin/cours-agentique-teluq"
+    image: "/images/courses/ia-agentique.jpg"
+    action: "Visit"
+    tech: "WIP"
+    blurb: "Work in progress, for TELUQ's short program in AI-assisted software development. What an LLM-based agent is, and how to build one: starting from next-word prediction, students write a complete coding agent from scratch in Python, a minimal reimplementation of [Pi](https://pi.dev), then extend it, measure it and find where it fails. Five modules (Predict, Assist, Act, Extend, Test), with interactive figures in every page and marimo notebooks for the labs."
 ---
 
-The two courses I created and teach at [TELUQ University](https://www.teluq.ca). Both are
-open, online, and written in French.
+The courses I created and teach at [TELUQ University](https://www.teluq.ca), plus one I am
+currently writing. All are open, online, and written in French.
 
 {{< projects key="courses" >}}
