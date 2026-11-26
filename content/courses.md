@@ -18,7 +18,7 @@ courses:
     action: "Visit"
     tech: "TELUQ"
     blurb: "An introduction to software engineering for the age of agentic AI, in six modules: from writing a correct program to building systems, working in a team, keeping software alive in production, and the place of software in the world. Built on general technological culture, historical perspective and direct hands-on experience rather than formalisms and diagrams."
-  - name: "IA agentique · Fondements, conception et développement"
+  - name: "INF XXXX · IA agentique : fondements, conception et développement"
     url: "https://cjauvin.github.io/cours-agentique-teluq/"
     repo: "https://github.com/cjauvin/cours-agentique-teluq"
     image: "/images/courses/ia-agentique.jpg"
