@@ -52,7 +52,7 @@ block = true
     url = "/learning/"
     weight = 20
   [[menu.main]]
-    identifier = "bio"
-    name = "Bio"
-    url = "/bio/"
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
     weight = 30

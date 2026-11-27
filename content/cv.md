@@ -1,5 +1,6 @@
 ---
-title: "Bio"
+title: "CV"
+aliases: ["/bio/"]
 hidemeta: true
 showToc: false
 comments: false
