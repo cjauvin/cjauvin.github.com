@@ -1,0 +1,14 @@
+{{- $key := .Get "key" | default "timeline" }}
+<ol class="timeline">
+{{- range index .Page.Params $key }}
+  <li class="tl-item tl-{{ .kind | default "work" | urlize }}">
+    <div class="tl-years">{{ .years }}</div>
+    <div class="tl-body">
+      <h3 class="tl-title">{{ .title | markdownify }}</h3>
+      {{- with .org }}<p class="tl-org">{{ . | markdownify }}</p>{{ end }}
+      {{- with .text }}<div class="tl-text">{{ . | markdownify }}</div>{{ end }}
+      {{- with .kind }}<span class="tl-kind">{{ . }}</span>{{ end }}
+    </div>
+  </li>
+{{- end }}
+</ol>

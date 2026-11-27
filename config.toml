@@ -51,3 +51,8 @@ block = true
     name = "Learning"
     url = "/learning/"
     weight = 20
+  [[menu.main]]
+    identifier = "bio"
+    name = "Bio"
+    url = "/bio/"
+    weight = 30
